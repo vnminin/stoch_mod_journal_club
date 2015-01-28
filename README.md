@@ -8,6 +8,8 @@
 
 *Schedule*:
 
+| Date | Presentation |
+|------|--------------|
 | January 23 | Michael’s practice talk |
 | January 30 | paper 1 |
  
