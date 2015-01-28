@@ -8,8 +8,8 @@
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Date | Presentation |
-|------|--------------|
-| January 23 | Michael’s practice talk |
-| January 30 | paper 1 |
-| February 6 | paper 2 |
+| Date | Presentation | Presenter |
+|------|--------------|-----------|
+| January 23 | general exam practice talk | Michael
+| January 30 | paper 1 | |
+| February 6 | paper 2 | |
