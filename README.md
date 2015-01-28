@@ -6,4 +6,8 @@
 
 *Location*: CSSS Conference Room (Padelford Hall, L floor)
 
-*Schedule*: 
+*Schedule*:
+
+| January 23 | Michael’s practice talk |
+| January 30 | paper 1 |
+ 
