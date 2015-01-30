@@ -11,5 +11,5 @@
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
 | January 23 | general exam practice talk | Michael
-| January 30 | paper 1 | |
+| January 30 | no meeting | |
 | February 6 | paper 2 | |
