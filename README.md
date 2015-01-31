@@ -12,4 +12,4 @@
 |------|--------------|-----------|
 | January 23 | general exam practice talk | Michael
 | January 30 | no meeting | |
-| February 6 | paper 2 | |
+| February 6 |  | Jan |
