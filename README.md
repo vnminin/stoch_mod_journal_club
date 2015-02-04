@@ -12,4 +12,4 @@
 |------|--------------|-----------|
 | January 23 | general exam practice talk | Michael
 | January 30 | no meeting | |
-| February 6 | [Posterior predictive assessment of model fitness](http://www.cs.princeton.edu/courses/archive/fall09/cos597A/papers/GelmanMengStern1996.pdf) | Jan |
+| February 6 | [Posterior predictive assessment of model fitness](https://github.com/vnminin/stoch_mod_journal_club/issues/4) | Jan |
