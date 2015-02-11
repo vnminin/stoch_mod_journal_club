@@ -14,4 +14,5 @@
 | January 30 | no meeting | |
 | February 6 | [Posterior predictive assessment of model fitness](https://github.com/vnminin/stoch_mod_journal_club/issues/4) | Jan |
 | February 13| [Determining Lineage Pathways from Cellular Barcoding Experiments](https://github.com/vnminin/stoch_mod_journal_club/issues/9) | Jason |
+|February 27 | [A Coupled hidden Markov model for disease interactions](https://github.com/vnminin/stoch_mod_journal_club/issues/6) | Jon |
 | March 6    | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
