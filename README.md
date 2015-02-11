@@ -13,4 +13,5 @@
 | January 23 | general exam practice talk | Michael
 | January 30 | no meeting | |
 | February 6 | [Posterior predictive assessment of model fitness](https://github.com/vnminin/stoch_mod_journal_club/issues/4) | Jan |
+| February 13| [Determining Lineage Pathways from Cellular Barcoding Experiments](https://github.com/vnminin/stoch_mod_journal_club/issues/9) | Jason |
 | March 6    | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
