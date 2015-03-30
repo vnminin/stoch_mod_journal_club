@@ -1,6 +1,6 @@
 # Stochastic modeling journal club at the University of Washington 
 
-## Winter 2015
+## Spring 2015
 
 *Time*: Fridays, 11:00am - 12:15 pm
 
@@ -10,11 +10,10 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| January 23 | general exam practice talk | Michael
-| January 30 | no meeting | |
-| February 6 | [Posterior predictive assessment of model fitness](https://github.com/vnminin/stoch_mod_journal_club/issues/4) | Jan |
-| February 13| [Determining Lineage Pathways from Cellular Barcoding Experiments](https://github.com/vnminin/stoch_mod_journal_club/issues/9) | Jason |
-|February 20 | [A Coupled hidden Markov model for disease interactions](https://github.com/vnminin/stoch_mod_journal_club/issues/6) | Jon |
-| March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
-| March 17   | practice job talk (this is Tuesday of Finals week) | Jan |
+| April 3    |        |           |
+| April 10   |        |           |
 
+Put yourself on the calendar like this:
+```
+| March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
+```
