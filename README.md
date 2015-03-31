@@ -12,6 +12,9 @@
 |------|--------------|-----------|
 | April 3    |        |           |
 | April 10   |        |           |
+| April 17   | Practice general exam | Jason |
+
+
 
 Put yourself on the calendar like this:
 ```
