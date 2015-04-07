@@ -10,7 +10,6 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| April 3    |        |           |
 | April 10   |        |           |
 | April 17   | Practice general exam | Jason |
 
