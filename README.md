@@ -12,7 +12,7 @@
 |------|--------------|-----------|
 | April 10   |        |           |
 | April 17   | Practice general exam | Jason |
-
+| April 24   | [Predicting evolution from the shape of genealogical trees](https://github.com/vnminin/stoch_mod_journal_club/issues/2) | Jan |
 
 
 Put yourself on the calendar like this:
