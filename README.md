@@ -13,7 +13,7 @@
 | April 10   |        |           |
 | April 17   | Practice general exam | Jason |
 | April 24   | [Predicting evolution from the shape of genealogical trees](https://github.com/vnminin/stoch_mod_journal_club/issues/2) | Jan |
-| May 8   | [Bayesian inference for stochastic multitype epidemics in structured populations using sample data](http://www.ncbi.nlm.nih.gov/pubmed/19648227) | Jon |
+| May 15   | [Bayesian inference for stochastic multitype epidemics in structured populations using sample data](http://www.ncbi.nlm.nih.gov/pubmed/19648227) | Jon |
 
 
 Put yourself on the calendar like this:
