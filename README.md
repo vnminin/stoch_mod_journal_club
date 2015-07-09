@@ -1,4 +1,4 @@
-# Stochastic modeling journal club at the University of Washington 
+# Stochastic modeling journal club at the University of Washington
 
 ## Spring 2015
 
@@ -16,7 +16,8 @@
 | May 15   | [Bayesian inference for stochastic multitype epidemics in structured populations using sample data](http://www.ncbi.nlm.nih.gov/pubmed/19648227) | Jon |
 | June 5   | Practice general exam | Jim |
 | June 26   | Practice job talk | Amanda |
-| July 24   | Hadley's R packages book - Object documentation, Vignettes, and Testing  | Jon |
+| July 9    | Hadley's R Packages book - [Package structure](http://r-pkgs.had.co.nz/package.html), [R code](http://r-pkgs.had.co.nz/r.html), and [package metadata](http://r-pkgs.had.co.nz/description.html) | Mike |
+| July 24   | Hadley's R Packages book - Object documentation, Vignettes, and Testing  | Jon |
 
 
 Put yourself on the calendar like this:
