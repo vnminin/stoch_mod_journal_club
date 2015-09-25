@@ -1,6 +1,6 @@
 # Stochastic modeling journal club at the University of Washington
 
-## Fall 2015
+## Summer 2015
 
 *Time*: Fridays, 11:00am - 12:15 pm
 
@@ -10,7 +10,11 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| October 2   | TBD | TBD |
+| June 26   | Practice job talk | Amanda |
+| July 9    | Hadley's R Packages book - [Package structure](http://r-pkgs.had.co.nz/package.html), [R code](http://r-pkgs.had.co.nz/r.html), and [package metadata](http://r-pkgs.had.co.nz/description.html) | Mike |
+| July 24   | Hadley's R Packages book - Object documentation, Vignettes, and Testing  | Jon |
+| July 31   | Extreme programming | everyone |
+| August 7  | JSM practice talks | Jason and Amanda |
 
 Put yourself on the calendar like this:
 ```
