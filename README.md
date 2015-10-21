@@ -10,7 +10,8 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| October 2   | TBD | TBD |
+| October 23   | [Forward Simulation Markov Chain Monte Carlo with Applications to Stochastic Epidemic Models](https://github.com/vnminin/stoch_mod_journal_club/issues/26)  | Jason |
+| October 30 | Practice defense | Jan |
 
 Put yourself on the calendar like this:
 ```
