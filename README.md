@@ -2,7 +2,7 @@
 
 ## Fall 2015
 
-*Time*: Fridays, 11:00am - 12:15 pm
+*Time*: Fridays, 10:45am - 12:00 pm
 
 *Location*: Stat Conference Room (Padelford Hall, C-301, 3rd floor)
 
@@ -11,7 +11,7 @@
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
 | October 23   | [Forward Simulation Markov Chain Monte Carlo with Applications to Stochastic Epidemic Models](https://github.com/vnminin/stoch_mod_journal_club/issues/26)  | Jason |
-| October 30 | Practice defense | Jan |
+| October 30 | Practice presentation/defense | Jan and Xiaoxiao |
 
 Put yourself on the calendar like this:
 ```
