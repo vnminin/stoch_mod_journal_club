@@ -14,6 +14,7 @@
 | October 30 | Practice presentation/defense | Jan and Xiaoxiao |
 | November 6| No meeting; recommend attending seminar at FHCRC | Richard Neher |
 | November 13 | Research update | Jason |
+| November 20 | [Graph-Coupled HMMs for Modeling the Spread of Infection](http://arxiv.org/pdf/1210.4864.pdf) | Amrit |
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
