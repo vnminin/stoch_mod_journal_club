@@ -16,6 +16,7 @@
 | November 13 | Research update | Jason |
 | November 20 | [Graph-Coupled HMMs for Modeling the Spread of Infection](http://arxiv.org/pdf/1210.4864.pdf) | Amrit |
 | December 4 | [Phylodynamic Inference for Structured Epidemiological Models](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003570) | Jim |
+| December 11 | [CIDID seminar @ FHCRC](http://www.cidid.org/events/2015/12/11/cidid-seminar-sergei-l-kosakovsky-pond) | Sergei Kosakovsky Pond |  
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
