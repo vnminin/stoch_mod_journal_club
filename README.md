@@ -11,6 +11,7 @@
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
 | Jan 15 | Research update: Counting binary trait transitions in Brownian motion threshold models of evolution | Mingwei |
+| Jan 29 | Research update: An agent-based data augmentation algorithm for tractably fitting stochastic epidemic models to noisy time series data | Jon|
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
