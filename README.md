@@ -13,9 +13,9 @@
 | Jan 15 | Research update: Counting binary trait transitions in Brownian motion threshold models of evolution | Mingwei |
 | Jan 29 | Research update: An agent-based data augmentation algorithm for tractably fitting stochastic epidemic models to noisy time series data | Jon|
 |Feb 5 | Research update: Efficiently Calculating Higher Moments of Phylogenetic Stochastic Mapping Summaries| Amrit|
-| Feb 12 | [Incorporating Hyperparameters into Elliptical Slice Sampling](http://homepages.inf.ed.ac.uk/imurray2/pub/10hypers/hypers.pdf) | Michael | 
+| Feb 12 | [Incorporating Hyperparameters into Elliptical Slice Sampling](http://homepages.inf.ed.ac.uk/imurray2/pub/10hypers/hypers.pdf) | Michael |
 | Feb 19 | [Simulation-based Bayesian inference for epidemic models](http://www.sciencedirect.com/science/article/pii/S016794731200446X) | Jason |
-| Feb 26 | Invited talk: Mathematical modeling of dynamical biological systems | [Alexander Ratushny](magnet.systemsbiology.net/aratushny/) |
+| Feb 26 | Invited talk: Mathematical modeling of dynamical biological systems | [Alexander Ratushny](http://magnet.systemsbiology.net/aratushny/) |
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
