@@ -16,6 +16,7 @@
 | Feb 12 | [Incorporating Hyperparameters into Elliptical Slice Sampling](http://homepages.inf.ed.ac.uk/imurray2/pub/10hypers/hypers.pdf) | Michael |
 | Feb 19 | [Simulation-based Bayesian inference for epidemic models](http://www.sciencedirect.com/science/article/pii/S016794731200446X) | Jason |
 | Feb 26 | Invited talk: Mathematical modeling of dynamical biological systems | [Alexander Ratushny](http://magnet.systemsbiology.net/aratushny/) |
+| Mar 4  | Research update: Adaptive Bayesian nonparametric smoothing for phylodynamics and mark-recapture | Jim |
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
