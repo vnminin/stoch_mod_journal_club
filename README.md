@@ -11,6 +11,7 @@
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
 | April 1 | [Likelihood-based estimation of continuous-time epidemic models from time-series data](http://rsif.royalsocietypublishing.org/content/5/25/885) | Jason | 
+| April 8 | Bayesian inference of Barrett's esophagus tissue age using a molecular clock | Kit |
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
