@@ -16,6 +16,7 @@
 | April 22 | [Inference for reaction networks using the linear noise approximation](http://onlinelibrary.wiley.com/doi/10.1111/biom.12152/abstract) | Jon and Mingwei |
 | May 6 | Research update on mark-recapture data | Jim |
 | May 13 | [Exploring the dynamics of influenza virus evolution, selection, and host adaptive immunity (CIDID seminar)](http://www.cidid.org/events/2016/5/13/cidid-seminar-pinky-langat ) | Pinky Langat |
+| May 20 | Profiling your code and posterior predictive checks | Michael |
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
