@@ -18,6 +18,9 @@
 | May 13 | [Exploring the dynamics of influenza virus evolution, selection, and host adaptive immunity (CIDID seminar)](http://www.cidid.org/events/2016/5/13/cidid-seminar-pinky-langat ) | Pinky Langat |
 | May 20 | Profiling your code and posterior predictive checks | Michael |
 | May 27 | Antibiotic resistance in the broiler poultry house environment | Jessica Williams-Nguyen |
+| June 3 | Research update: likelihood-based inference for SIR models | Jason |
+| June 10| No meeting | | 
+| June 17| Practice WNAR presentation | Jon |
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
