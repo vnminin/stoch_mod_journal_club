@@ -13,7 +13,7 @@
 | October 7 |  |  |
 | October 14 | [Coverage and system efficiencies of insecticide-treated nets in Africa from 2000 to 2017](https://elifesciences.org/content/4/e09672) |Shane |
 | October 21 | | |
-| October 28 | | |
+| October 28 |Approximating Markov jump processes with diffusions |Jon |
 | November 4 | | |
 | November 11 | | |
 | November 18 | | |
