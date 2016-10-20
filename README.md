@@ -12,7 +12,7 @@
 |------|--------------|-----------|
 | October 7 |  |  |
 | October 14 | [Coverage and system efficiencies of insecticide-treated nets in Africa from 2000 to 2017](https://elifesciences.org/content/4/e09672) |Shane |
-| October 21 | | |
+| October 21 |Research in the group: topics, connections, and open problems |Vladimir |
 | October 28 | | |
 | November 4 | | |
 | November 11 | | |
