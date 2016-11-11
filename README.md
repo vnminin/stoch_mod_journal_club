@@ -13,11 +13,11 @@
 | October 7 |  |  |
 | October 14 | [Coverage and system efficiencies of insecticide-treated nets in Africa from 2000 to 2017](https://elifesciences.org/content/4/e09672) |Shane |
 | October 21 |Research in the group: topics, connections, and open problems |Vladimir |
-| October 28 |Vladimir is out of town -- no meeting? | |
+| October 28 |Vladimir is out of town -- no meeting | |
 | November 4 |Overview of approximating Markov jump processes with diffusions |Jon |
-| November 11 | | |
+| November 11 | Veterans Day -- no meeting | |
 | November 18 | | |
-| November 25 | Thanksgiving -- no meeting|  |
+| November 25 | Thanksgiving -- no meeting | |
 | December 2 | | |
 | December 9 | No meeting | |
 
