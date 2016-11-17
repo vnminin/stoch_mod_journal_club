@@ -16,7 +16,7 @@
 | October 28 |Vladimir is out of town -- no meeting | |
 | November 4 |Overview of approximating Markov jump processes with diffusions |Jon |
 | November 11 | Veterans Day -- no meeting | |
-| November 18 | | |
+| November 18 | Tips for R packages and CRAN | Mike |
 | November 25 | Thanksgiving -- no meeting | |
 | December 2 | | |
 | December 9 | No meeting | |
