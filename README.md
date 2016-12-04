@@ -18,8 +18,8 @@
 | November 11 | Veterans Day -- no meeting | |
 | November 18 | Tips for R packages and CRAN | Mike |
 | November 25 | Thanksgiving -- no meeting | |
-| December 2 | | |
-| December 9 | No meeting | |
+| December 2 | Cancelled | |
+| December 9 | Open | |
 
 Put yourself on the calendar like this:
 ```
