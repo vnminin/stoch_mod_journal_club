@@ -19,7 +19,7 @@
 | November 18 | Tips for R packages and CRAN | Mike |
 | November 25 | Thanksgiving -- no meeting | |
 | December 2 | Cancelled | |
-| December 9 | Open | |
+| December 9 | History matching of HIV transmission by using variance emulation | Xiang Cui |
 
 Put yourself on the calendar like this:
 ```
