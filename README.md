@@ -1,6 +1,6 @@
 # Stochastic modeling journal club at the University of Washington
 
-## Autumn 2016
+## Winter 2017
 
 *Time*: Fridays, 10:30 am - 11:30 pm
 
@@ -10,16 +10,16 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| October 7 |  |  |
-| October 14 | [Coverage and system efficiencies of insecticide-treated nets in Africa from 2000 to 2017](https://elifesciences.org/content/4/e09672) |Shane |
-| October 21 |Research in the group: topics, connections, and open problems |Vladimir |
-| October 28 |Vladimir is out of town -- no meeting | |
-| November 4 |Overview of approximating Markov jump processes with diffusions |Jon |
-| November 11 | Veterans Day -- no meeting | |
-| November 18 | Tips for R packages and CRAN | Mike |
-| November 25 | Thanksgiving -- no meeting | |
-| December 2 | Cancelled | |
-| December 9 | [History matching of HIV transmission by using variance emulation](http://onlinelibrary.wiley.com/doi/10.1111/rssc.12198/abstract) | Xiang Cui |
+| January 6 | no meeting |  |
+| October 14 |  | |
+| October 21 | | |
+| October 28 | | |
+| November 4 | | |
+| November 11 |  | |
+| November 18 |  |  |
+| November 25 |  | |
+| December 2 |  | |
+| December 9 |  |  |
 
 Put yourself on the calendar like this:
 ```
