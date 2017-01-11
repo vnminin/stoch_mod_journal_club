@@ -11,15 +11,15 @@
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
 | January 6 | no meeting |  |
-| October 14 |  | |
-| October 21 | | |
-| October 28 | | |
-| November 4 | | |
-| November 11 |  | |
-| November 18 |  |  |
-| November 25 |  | |
-| December 2 |  | |
-| December 9 |  |  |
+| January 13 | No meeting - [CIDID seminar at Fred Hutch instead](http://www.cidid.org/events/2017/1/13/cidid-seminar-nathan-grubaugh) | |
+| January 20 | | |
+| January 27 | | |
+| February 3 | | |
+| February 10 |  | |
+| February 17 |  |  |
+| February 24 |  | |
+| March 3 |  | |
+| March 10 |  |  |
 
 Put yourself on the calendar like this:
 ```
