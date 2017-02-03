@@ -17,7 +17,7 @@
 | February 3 | Research update | Amrit |
 | February 10 |  | |
 | February 17 |  |  |
-| February 24 |  | |
+| February 24 | Practice general exam | Jon |
 | March 3 |  | |
 | March 10 |  |  |
 
