@@ -13,8 +13,8 @@
 | January 6 | no meeting |  |
 | January 13 | No meeting - [CIDID seminar at Fred Hutch instead](http://www.cidid.org/events/2017/1/13/cidid-seminar-nathan-grubaugh) | |
 | January 20 |[Inference for Nonlinear Epidemiological Models Using Genealogies and Time Series](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002136) | Mingwei |
-| January 27 | | |
-| February 3 | | |
+| January 27 | no meeting | |
+| February 3 | Research update | Amrit |
 | February 10 |  | |
 | February 17 |  |  |
 | February 24 |  | |
