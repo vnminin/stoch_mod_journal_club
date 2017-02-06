@@ -18,7 +18,7 @@
 | February 10 |  | |
 | February 17 | TBD Journal Article | Michael |
 | February 24 | Practice general exam | Jon |
-| March 3 |  | |
+| March 3 | TBD | Jim |
 | March 10 | TBD - Likely research update  | Shane |
 
 Put yourself on the calendar like this:
