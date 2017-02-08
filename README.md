@@ -15,8 +15,8 @@
 | January 20 |[Inference for Nonlinear Epidemiological Models Using Genealogies and Time Series](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002136) | Mingwei |
 | January 27 | no meeting | |
 | February 3 | Research update | Amrit |
-| February 10 |  | |
-| February 17 | TBD Journal Article | Michael |
+| February 10 | Research update | Michael |
+| February 17 | likely cancelled | |
 | February 24 | Practice general exam | Jon |
 | March 3 | TBD | Jim |
 | March 10 | TBD - Likely research update  | Shane |
