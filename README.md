@@ -18,7 +18,7 @@
 | February 10 | Research update | Michael |
 | February 17 | likely cancelled | |
 | February 24 | Practice general exam | Jon |
-| March 3 | TBD | Jim |
+| March 3 | Research update | Jim |
 | March 10 | TBD - Likely research update  | Shane |
 
 Put yourself on the calendar like this:
