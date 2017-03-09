@@ -19,7 +19,7 @@
 | February 17 | likely cancelled | |
 | February 24 | Practice general exam | Jon |
 | March 3 | Research update | Jim |
-| March 10 | TBD - Likely research update  | Shane |
+| March 10 | [Genomic Infectious Disease Epidemiology in Partially Sampled and Ongoing Outbreaks](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw275)  | Shane |
 
 Put yourself on the calendar like this:
 ```
