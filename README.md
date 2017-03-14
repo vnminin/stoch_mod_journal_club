@@ -20,6 +20,7 @@
 | February 24 | Practice general exam | Jon |
 | March 3 | Research update | Jim |
 | March 10 | [Genomic Infectious Disease Epidemiology in Partially Sampled and Ongoing Outbreaks](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw275)  | Shane |
+| March 17 | [CIDID Seminar: Simon Hay](http://www.cidid.org/events/2017/3/17/cidid-seminar-simon-hay) |
 
 Put yourself on the calendar like this:
 ```
