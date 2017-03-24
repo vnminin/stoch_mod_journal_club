@@ -10,8 +10,8 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| March 31 | | Mingwei |
-| April 7 | | |
+| March 31 | Research update | Mingwei |
+| April 7 | [Inferring the Source of Transmission with Phylogenetic Data](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003397)| Chloe |
 | April 14 | | |
 | April 21 | [CIDID Seminar: Micaela Martinez](http://www.cidid.org/events/2017/4/20/cidid-seminar-micaela-martinez) | |
 | April 28 | | |
