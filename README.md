@@ -17,7 +17,7 @@
 | April 28 | | |
 | May 5 | Research update | Arman |
 | May 12 | | |
-| May 19 | | |
+| May 19 | TBA, probably research update | Shane |
 | May 26 | | |
 | June 2 | | |
 | June 9 | | |
