@@ -19,7 +19,7 @@
 | May 12 | | |
 | May 19 | TBA, probably research update | Shane |
 | May 26 | | |
-| June 2 | | |
+| June 2 | Research update/draft practice final? | Michael |
 | June 9 | | |
 
 Put yourself on the calendar like this:
