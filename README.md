@@ -18,7 +18,7 @@
 | May 5 | Research update | Arman |
 | May 12 | | |
 | May 19 | TBA, probably research update | Shane |
-| May 26 | | |
+| May 26 | Research update | Jim |
 | June 2 | Research update/draft practice final? | Michael |
 | June 9 | | |
 
