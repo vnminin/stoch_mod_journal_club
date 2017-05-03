@@ -16,9 +16,9 @@
 | April 21 | [CIDID Seminar: Micaela Martinez](http://www.cidid.org/events/2017/4/20/cidid-seminar-micaela-martinez) | |
 | April 28 | Research update | Andy |
 | May 5 | Research update | Arman |
-| May 12 | | |
+| May 12 | Research update | Amrit |
 | May 19 | TBA, probably research update | Shane |
-| May 26 | Research update | Jim | - Possibly Vladimir gone, may need to mvoe Jim
+| May 26 | Research update | Jim (Vladimir may gone, may need to move Jim to June 9) |
 | June 2 | Research update/draft practice final? | Michael |
 | June 9 | | |
 
