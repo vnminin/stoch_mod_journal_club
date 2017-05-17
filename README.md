@@ -18,7 +18,7 @@
 | May 5 | Research update | Arman |
 | May 12 | Research update | Amrit |
 | May 19 | TBA, probably research update | Shane |
-| May 26 | Research update | Jim (Vladimir may gone, may need to move Jim to June 9) |
+| May 26 | Research update | Jim |
 | June 2 | Research update/draft practice final? | Michael |
 | June 9 | | |
 
