@@ -17,10 +17,10 @@
 | April 28 | Research update | Andy |
 | May 5 | Research update | Arman |
 | May 12 | Research update | Amrit |
-| May 19 | TBA, probably research update | Shane |
-| May 26 | Research update | Jim |
+| May 19 | No meeting | Summer fun in the sun  |
+| May 26 | TBA, probably research update | Shane |
 | June 2 | Research update/draft practice final? | Michael |
-| June 9 | | |
+| June 9 | Research update | Jim |
 
 Put yourself on the calendar like this:
 ```
