@@ -20,7 +20,7 @@
 | May 19 | No meeting | Summer fun in the sun  |
 | May 26 | [Simultaneous inference of phylogenetic and transmission trees...](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005495) | Shane |
 | June 2 | Research update/draft practice final? | Michael |
-| June 9 | Research update | Jim |
+| June 9 | Meeting cancelled | Enjoy your summer! |
 
 Put yourself on the calendar like this:
 ```
