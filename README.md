@@ -1,6 +1,6 @@
 # Stochastic modeling journal club at the University of Washington
 
-## Spring 2017
+## Fall 2017
 
 *Time*: Fridays, 10:30 am - 11:30 pm
 
