@@ -13,7 +13,7 @@
 | October 6 |  |  |
 | October 13 |  |  |
 | October 20 |  |  |
-| October 27 | [CIDID Seminar[(http://www.cidid.org/events/2017/10/27/cidid-seminar-leah-katzelnick) | Leah Katzelnick |
+| October 27 | [CIDID Seminar](http://www.cidid.org/events/2017/10/27/cidid-seminar-leah-katzelnick) | Leah Katzelnick |
 
 
 
