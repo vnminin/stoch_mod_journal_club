@@ -14,7 +14,7 @@
 | October 13 |  |  |
 | October 20 |  |  |
 | October 27 | [CIDID Seminar](http://www.cidid.org/events/2017/10/27/cidid-seminar-leah-katzelnick) | Leah Katzelnick |
-
+| November 3 | [Practice General] | Mingwei |
 
 
 Put yourself on the calendar like this:
