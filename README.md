@@ -13,7 +13,7 @@
 | May 4 | research update | Jon Fintzi |
 | May 11 |  |  |
 | May 18 | no meeting? |  |
-| May 25 |  | |
+| May 25 | Practice Final | Michael Karcher |
 | June 1 |  |  |
 | June 8 |  |  |
 
