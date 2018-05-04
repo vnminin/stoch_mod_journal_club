@@ -1,24 +1,25 @@
-# Stochastic modeling journal club at the University of Washington
+# Stochastic modeling group meetings at the UW and UCI
 
-## Fall 2017
+## Spring 2018
 
-*Time*: Fridays, 10:30 am - 11:30 pm
+*Time*: Fridays, 10:15 am - 12:30 pm
 
-*Location*: Stat Conference Room (Padelford Hall, C-301, 3rd floor)
+*Locations*: UCI: DBH 2013, UW: HSB F-643
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| October 6 |  |  |
-| October 13 |  |  |
-| October 20 |  |  |
-| October 27 | [CIDID Seminar](http://www.cidid.org/events/2017/10/27/cidid-seminar-leah-katzelnick) | Leah Katzelnick |
-| November 3 | [Practice General] | Mingwei |
+| May 4 | research update | Jon Fintzi |
+| May 11 |  |  |
+| May 18 | no meeting? |  |
+| May 25 |  | |
+| June 1 |  |  |
+| June 8 |  |  |
+
 
 
 Put yourself on the calendar like this:
 ```
 | March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
 ```
-
