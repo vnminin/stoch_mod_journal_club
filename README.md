@@ -1,6 +1,6 @@
 # Stochastic modeling journal club at the University of Washington
 
-## Spring 2017
+## Fall 2017
 
 *Time*: Fridays, 10:30 am - 11:30 pm
 
@@ -10,17 +10,12 @@
 
 | Date | Presentation | Presenter |
 |------|--------------|-----------|
-| March 31 | Research update | Mingwei |
-| April 7 | No meeting | |
-| April 14 | Group programming |
-| April 21 | [CIDID Seminar: Micaela Martinez](http://www.cidid.org/events/2017/4/20/cidid-seminar-micaela-martinez) | |
-| April 28 | Research update | Andy |
-| May 5 | Research update | Arman |
-| May 12 | Research update | Amrit |
-| May 19 | No meeting | Summer fun in the sun  |
-| May 26 | [Simultaneous inference of phylogenetic and transmission trees...](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005495) | Shane |
-| June 2 | Research update/draft practice final? | Michael |
-| June 9 | Meeting cancelled | Enjoy your summer! |
+| October 6 |  |  |
+| October 13 |  |  |
+| October 20 |  |  |
+| October 27 | [CIDID Seminar](http://www.cidid.org/events/2017/10/27/cidid-seminar-leah-katzelnick) | Leah Katzelnick |
+| November 3 | [Practice General] | Mingwei |
+
 
 Put yourself on the calendar like this:
 ```
