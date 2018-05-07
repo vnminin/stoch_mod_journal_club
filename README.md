@@ -2,7 +2,7 @@
 
 ## Spring 2018
 
-*Time*: Fridays, 10:15 am - 12:30 pm
+*Time*: Fridays, 11:15 am - 12:30 pm
 
 *Locations*: UCI: DBH 2013, UW: HSB F-643
 
