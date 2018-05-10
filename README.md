@@ -15,7 +15,7 @@
 | May 18 | no meeting? |  |
 | May 25 | Practice Final | Michael Karcher |
 | June 1 |  |  |
-| June 8 |  |  |
+| June 8 | research update | Jim Faulkner |
 
 
 
