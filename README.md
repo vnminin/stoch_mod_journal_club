@@ -14,7 +14,7 @@
 | May 11 | research update | Mingwei Tang |
 | May 18 | no meeting? |  |
 | May 25 | Practice Final | Michael Karcher |
-| June 1 |  |  |
+| June 1 | research update | Amrit Dhar |
 | June 8 | research update | Jim Faulkner |
 
 
