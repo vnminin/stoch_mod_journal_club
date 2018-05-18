@@ -12,7 +12,7 @@
 |------|--------------|-----------|
 | May 4 | research update | Jon Fintzi |
 | May 11 | research update | Mingwei Tang |
-| May 18 | no meeting? |  |
+| May 18 | no meeting | Andy Magee |
 | May 25 | Practice Final | Michael Karcher |
 | June 1 | research update | Amrit Dhar |
 | June 8 | research update | Jim Faulkner |
