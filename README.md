@@ -8,18 +8,18 @@
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Date   | Presentation   | Presenter    |  Location                                 |
-|--------|----------------|--------------|-------------------------------------------|
-| May 17 | Practice final | Amrit Dhar   | Fred Hutch, Arnold Bld, CompBio Conf. Rm. |
-| May 21 | Practice final | Jim Faulkner | Allen Library Red C                       |
-| May 24 |                |              |                                           |
-| May 31 |                |              |                                           |
-| June 7 |                |              |                                           |
-| June 14|                |              |                                           |
+| Date   | Time     | Presentation   | Presenter    |  Location                                 |
+|--------|----------|----------------|--------------|-------------------------------------------|
+| May 17 |  2:00 pm | Practice final | Amrit Dhar   | Fred Hutch, Arnold Bld, CompBio Conf. Rm. |
+| May 21 | 10:00 am | Practice final | Jim Faulkner | Allen Library Red C                       |
+| May 24 |          |                |              |                                           |
+| May 31 |          |                |              |                                           |
+| June 7 |          |                |              |                                           |
+| June 14|          |                |              |                                           |
 
 
 
 Put yourself on the calendar like this:
 ```
-| March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael | CC-301 |
+| March 13   | 10:00 am  | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael | CC-301 |
 ```
