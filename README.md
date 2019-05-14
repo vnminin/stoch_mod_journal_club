@@ -1,25 +1,25 @@
 # Stochastic modeling group meetings at the UW and UCI
 
-## Spring 2018
+## Spring 2019
 
-*Time*: Fridays, 11:15 am - 12:30 pm
+*Time*: TBA
 
-*Locations*: UCI: DBH 2013, UW: HSB F-643
+*Locations*: UCI: DBH 2013, UW: various - see table
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Date | Presentation | Presenter |
-|------|--------------|-----------|
-| May 4 | research update | Jon Fintzi |
-| May 11 | research update | Mingwei Tang |
-| May 18 | research update | Andy Magee |
-| May 25 | Practice Final | Michael Karcher |
-| June 1 | research update | Amrit Dhar |
-| June 8 | research update | Jim Faulkner |
+| Date   | Presentation   | Presenter    |  Location                                 |
+|--------|----------------|--------------|-------------------------------------------|
+| May 17 | Practice final | Amrit Dhar   | Fred Hutch, Arnold Bld, CompBio Conf. Rm. |
+| May 21 | Practice final | Jim Faulkner | Allen Library Red C                       |
+| May 24 |                |              |                                           |
+| May 31 |                |              |                                           |
+| June 7 |                |              |                                           |
+| June 14|                |              |                                           |
 
 
 
 Put yourself on the calendar like this:
 ```
-| March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael |
+| March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Michael | CC-301 |
 ```
