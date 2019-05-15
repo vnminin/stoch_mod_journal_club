@@ -12,7 +12,7 @@
 |--------|----------|----------------|--------------|-------------------------------------------|
 | May 17 |  2:00 pm | Practice final | Amrit Dhar   | Fred Hutch, Arnold Bld, CompBio Conf. Rm. |
 | May 21 | 10:00 am | Practice final | Jim Faulkner | Allen Library Red C                       |
-| May 24 |          |                |              |                                           |
+| May 23 | 10:00 am | Practice final | Mingwei Tang | to be decided                             |
 | May 31 |          |                |              |                                           |
 | June 7 |          |                |              |                                           |
 | June 14|          |                |              |                                           |
