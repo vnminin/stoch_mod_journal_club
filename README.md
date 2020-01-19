@@ -1,4 +1,4 @@
-# UCI Stochastic/statistical modeling group meetings
+# UCI stochastic/statistical modeling group meetings
 
 ## Winter 2020
 
