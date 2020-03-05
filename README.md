@@ -16,7 +16,7 @@
 | February 14 |                |              |
 | February 21 |                |              |
 | February 28 |                |              |
-| March 6 |                |              |
+| March 6 | [Viral Phylodynamics](https://doi.org/10.1371/journal.pcbi.1002947) | Damon Bayer |
 | March 13 |                |              |
 | March 20 |                |              |
 
