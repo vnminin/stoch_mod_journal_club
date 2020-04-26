@@ -1,24 +1,25 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Winter 2020
+## Spring 2020
 
-*Time*: Friday, 4-5 pm
+*Time*: Friday, 2-3 pm
 
-*Locations*: DBH 2222
+*Location*: Zoom
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| January 24  |  [Chapter 13: Methods for Outbreaks Using Genomic Data](https://uci.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991035060506804701&context=L&vid=01CDL_IRV_INST:UCI&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Handbook%20of%20Infectious%20Disease%20Data%20Analysis&sortby=rank&offset=0)     |   Vladimir Minin  |
-| January 31  |  |              |
-| February 7  |  |              |
-| February 14 |                |              |
-| February 21 |                |              |
-| February 28 |                |              |
-| March 6 |                |              |
-| March 13 |                |              |
-| March 20 |                |              |
+| April 3  |  [Protocol for a population-basedmolecular epidemiology study oftuberculosis transmission in a highHIV-burden setting: the BotswanaKopanyo study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874111/)     |   Damon Bayer  |
+| April 10  |[The effect of non-pharmaceutical interventions on COVID-19 cases, deaths and demand for hospital services in the UK: a modelling study](https://cmmid.github.io/topics/covid19/uk-scenario-modelling.html)  | Isaac Goldstein |
+| April 17  |[The Posterior and the Prior in Bayesian Phylogenetics](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.37.091305.110021), [Genomic Investigation of a Mycobacterium tuberculosis Outbreak Involving Prison and Community Cases in Florida, United States](http://www.ajtmh.org/content/journals/10.4269/ajtmh.17-0700;jsessionid=Y5mIkt--O1Mfp4wa3B7Zte30.ip-10-241-1-122)  | Damon Bayer |
+| April 24 |[IHME COVID-19 Forecasting Paper](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1) | Isaac Goldstein |
+| May 1 |[Genomic Infectious Disease Epidemiology in Partially Sampled and Ongoing Outbreak](https://academic.oup.com/mbe/article/34/4/997/2919386)             | Damon Bayer |
+| May 8 |                |              |
+| May 15 |                |              |
+| May 22 |                |              |
+| May 29 |                |              |
+| June 5 |                |              |
 
 
 
