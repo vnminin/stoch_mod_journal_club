@@ -17,7 +17,7 @@
 | May 1 |[Genomic Infectious Disease Epidemiology in Partially Sampled and Ongoing Outbreak](https://academic.oup.com/mbe/article/34/4/997/2919386) | Damon Bayer |
 | May 8 |[Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US](https://www.medrxiv.org/content/10.1101/2020.03.21.20040303v2) |  Isaac Goldstein|
 | May 15 | [The molecular clock of Mycobacterium tuberculosis](https://doi.org/10.1371/journal.ppat.1008067) |              Damon Bayer |
-| May 22 |                |              |
+| May 22 | [Mobility trends provide a leading indicator of changes in SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.05.07.20094441v1)                |       Isaac Goldstein       |
 | May 29 |                |              |
 | June 5 |                |              |
 
