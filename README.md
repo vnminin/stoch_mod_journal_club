@@ -18,7 +18,7 @@
 | May 8 |[Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US](https://www.medrxiv.org/content/10.1101/2020.03.21.20040303v2) |  Isaac Goldstein|
 | May 15 | [The molecular clock of Mycobacterium tuberculosis](https://doi.org/10.1371/journal.ppat.1008067) |              Damon Bayer |
 | May 22 | [Mobility trends provide a leading indicator of changes in SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.05.07.20094441v1)                |       Isaac Goldstein       |
-| May 29 |                |              |
+| May 29 | [The emergence of SARS-CoV-2 in Europe and the US](https://www.biorxiv.org/content/10.1101/2020.05.21.109322v1) | Damon Bayer |
 | June 5 |                |              |
 
 
