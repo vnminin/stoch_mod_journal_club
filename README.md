@@ -10,7 +10,7 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| July 31  | Research update: TSIR model  |   Damon Bayer  |
+| July 31  | Research update: TSIR model  |   Luis Lomeli  |
 
 
 
