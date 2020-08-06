@@ -11,6 +11,7 @@
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
 | July 31  | Research update: TSIR model  |   Luis Lomeli  |
+| August 6 | Research update: Covid-19 Modeling Paper | Damon Bayer, Isaac Goldstein and Vladimir Minin|
 
 
 
