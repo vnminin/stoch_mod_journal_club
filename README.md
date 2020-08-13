@@ -12,7 +12,7 @@
 |--------|----------------|--------------|
 | July 31  | Research update: TSIR model  |   Luis Lomeli  |
 | August 6 | Research update: Covid-19 Modeling Paper | Damon Bayer, Isaac Goldstein and Vladimir Minin|
-
+|August 13 | Baysian Inference for Stochastic Epidemic Models via the Linear Noise Approximation| The Award Winning Jon Fintzi|
 
 
 
