@@ -16,7 +16,7 @@
 |September 11|  [Scalable relaxed clock phylogenetic dating](https://academic.oup.com/ve/article/3/2/vex025/4100592) | Isaac Goldstein|
 |September 25| Practice Job Talk | Andy Magee|
 |October 2| [Practical considerations for measuring the effective reproductive number, Rt](https://www.medrxiv.org/content/10.1101/2020.06.18.20134858v3)| Isaac Goldstein|
-
+|October 21| Research updates on current projects | The dream team|
 
 Put yourself on the calendar like this:
 ```
