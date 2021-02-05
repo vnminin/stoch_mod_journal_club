@@ -10,6 +10,8 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
+| 2021-02-12 | [Transmission of SARS-CoV-2 Lineage B.1.1.7 in England: Insights from linking epidemiological and genetic data](https://doi.org/10.1101/2020.12.30.20249034) | Damon Bayer |
+
 
 
 
