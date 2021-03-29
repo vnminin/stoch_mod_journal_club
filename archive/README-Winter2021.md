@@ -1,8 +1,8 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Spring 2021
+## Winter 2021
 
-*Time*: TBD
+*Time*: Friday, 3-4 pm
 
 *Location*: Zoom
 
@@ -10,8 +10,7 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| 2021-04-10 | Research Updates | Andy Magee, Damon Bayer, Isaac Goldstein, Catalina Medina, Yushang Lai |
-| 2021-04-17 | [Bayesian Workflow](https://arxiv.org/abs/2011.01808) | Damon Bayer |
+| 2021-02-12 | [Transmission of SARS-CoV-2 Lineage B.1.1.7 in England: Insights from linking epidemiological and genetic data](https://doi.org/10.1101/2020.12.30.20249034) | Damon Bayer |
 
 
 
