@@ -2,7 +2,7 @@
 
 ## Spring 2021
 
-*Time*: TBD
+*Time*: Fridays, 1-2pm
 
 *Location*: Zoom
 
