@@ -13,7 +13,7 @@
 | 2021-04-09 | Research Updates | Andy Magee, Damon Bayer, Isaac Goldstein, Catalina Medina, Yushang Lai |
 | 2021-04-16 | [Bayesian Workflow](https://arxiv.org/abs/2011.01808) Sections 1 - 6 | Damon Bayer |
 | 2021-04-23 | [Bayesian Workflow](https://arxiv.org/abs/2011.01808) Sections 2 - 12 | Damon Bayer |
-
+| 2021-04-30 | Practice defense talk | Andy Magee |
 
 
 
