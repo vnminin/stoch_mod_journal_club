@@ -1,10 +1,10 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Spring 2021
+## Fall 2021
 
-*Time*: Fridays, 1-2pm
+*Time*: Fridays, 11-12pm
 
-*Location*: Zoom
+*Location*: Zoom (For now)
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
