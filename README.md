@@ -11,7 +11,7 @@
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
 | 2021-10-08 | How to Give a Talk | Vladimir Minin |
-| 2021-10-29 | Confidence Intervals for Prevalence Estimates from Complex Surveys with Imperfect Assays | Damon Bayer |
+| 2021-11-05 | Confidence Intervals for Prevalence Estimates from Complex Surveys with Imperfect Assays | Damon Bayer |
 
 
 
