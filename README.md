@@ -11,7 +11,7 @@
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
 | 2021-10-08 | How to Give a Talk | Vladimir Minin |
-| 2021-10-29 | [Birth-and-death Processes in Python: The BirDePy Package](https://arxiv.org/abs/2110.05067) | Isaac Goldsteion |
+| 2021-10-29 | [Birth-and-death Processes in Python: The BirDePy Package](https://arxiv.org/abs/2110.05067) | Isaac Goldstein |
 | 2021-11-05 | Confidence Intervals for Prevalence Estimates from Complex Surveys with Imperfect Assays | Damon Bayer |
 
 
