@@ -13,6 +13,7 @@
 | 2021-10-08 | How to Give a Talk | Vladimir Minin |
 | 2021-10-29 | [Birth-and-death Processes in Python: The BirDePy Package](https://arxiv.org/abs/2110.05067) | Isaac Goldstein |
 | 2021-11-05 | Confidence Intervals for Prevalence Estimates from Complex Surveys with Imperfect Assays | Damon Bayer |
+|2021-11-12| [Spatial modeling with R-INLA: A review](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1443?casa_token=lBAhRqr1UR0AAAAA%3AXA_3LJw2sJuSXFG47oiowjqq-KVFCgQivl9aDNC8aw-rZH3nZDn6BNibtgRaCs_FSCfOaMAV8zZM-UM) | Catalina Medina|
 
 
 
