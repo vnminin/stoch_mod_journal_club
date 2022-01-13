@@ -10,7 +10,7 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| 2022-01-14 | Research Update | Isaac Goldstein |
+| 2022-01-14 |Investigating methods for using genetic data to estimate the association between host factors and being an infection source| Isaac Goldstein |
 | 2021-01-21 | Research Update | Yushang Lai |
 | 2021-01-28 | TBD | Damon Bayer |
 | 2021-02-04 | TBD | Catalina Medina |
