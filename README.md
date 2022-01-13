@@ -14,7 +14,11 @@
 | 2021-01-21 | Research Update | Yushang Lai |
 | 2021-01-28 | TBD | Damon Bayer |
 | 2021-02-04 | TBD | Catalina Medina |
-
+| 2022-02-11 | TBD | Isaac Goldstein |
+| 2021-02-18 | TBD | Yushang Lai |
+| 2021-02-25 | TBD | Damon Bayer |
+| 2021-03-04 | TBD | Catalina Medina |
+| 2021-03-11 | TBD | TBD |
 
 
 Put yourself on the calendar like this:
