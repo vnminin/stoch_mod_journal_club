@@ -13,7 +13,7 @@
 | 2022-01-14 |Investigating methods for using genetic data to estimate the association between host factors and being an infection source| Isaac Goldstein |
 | 2021-01-21 | Research Update | Yushang Lai |
 | 2021-01-28 | [Differentiated uniformization: A new method for inferring Markov chains on combinatorial state spaces including stochastic epidemic models](https://arxiv.org/abs/2112.10971) | Damon Bayer |
-| 2021-02-04 | TBD | Catalina Medina |
+| 2021-02-04 | A spatial analysis of exposure to *Aedes* mosquitoes in an peri-urban area endemic to dengue, chikungunya, and Zika viruses | Catalina Medina |
 | 2022-02-11 | TBD | Isaac Goldstein |
 | 2021-02-18 | TBD | Yushang Lai |
 | 2021-02-25 | TBD | Damon Bayer |
