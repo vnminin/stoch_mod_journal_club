@@ -15,7 +15,7 @@
 | 2021-01-28 | [Differentiated uniformization: A new method for inferring Markov chains on combinatorial state spaces including stochastic epidemic models](https://arxiv.org/abs/2112.10971) | Damon Bayer |
 | 2021-02-04 | A spatial analysis of exposure to *Aedes* mosquitoes in an peri-urban area endemic to dengue, chikungunya, and Zika viruses | Catalina Medina |
 | 2022-02-11 | [Comparison of prospective Hawkes and recursive point process models for Ebola in DRC](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2803)| Isaac Goldstein |
-| 2021-02-18 | TBD | Yushang Lai |
+| 2021-02-18 | [Personalized Radiotherapy Design for Glioblastoma: Integrating Mathematical Tumor Models, Multimodal Scans, and Bayesian Inference](https://ieeexplore.ieee.org/abstract/document/8654016) | Yushang Lai |
 | 2021-02-25 | TBD | Damon Bayer |
 | 2021-03-04 | TBD | Catalina Medina |
 | 2021-03-11 | TBD | TBD |
