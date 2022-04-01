@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Winter 2022
+## Spring 2022
 
 *Time*: Fridays, 11-12pm
 
@@ -10,17 +10,17 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| 2022-01-14 |Investigating methods for using genetic data to estimate the association between host factors and being an infection source| Isaac Goldstein |
-| 2021-01-21 | Research Update | Yushang Lai |
-| 2021-01-28 | [Differentiated uniformization: A new method for inferring Markov chains on combinatorial state spaces including stochastic epidemic models](https://arxiv.org/abs/2112.10971) | Damon Bayer |
-| 2021-02-04 | A spatial analysis of exposure to *Aedes* mosquitoes in an peri-urban area endemic to dengue, chikungunya, and Zika viruses | Catalina Medina |
-| 2022-02-11 | [Comparison of prospective Hawkes and recursive point process models for Ebola in DRC](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2803)| Isaac Goldstein |
-| 2021-02-18 | [Personalized Radiotherapy Design for Glioblastoma: Integrating Mathematical Tumor Models, Multimodal Scans, and Bayesian Inference](https://ieeexplore.ieee.org/abstract/document/8654016) | Yushang Lai |
-| 2021-02-25 | CS Distinguished Lecture | Judea Pearl |
-| 2021-03-04 | TBD | Catalina Medina |
-| 2021-03-11 | [Implications of Delayed Reopening in Controlling the COVID-19 Surge in Southern and West-Central USA](https://spj.sciencemag.org/journals/hds/2021/9798302/) | Damon Bayer |
+| 2022-04-08 | [Implications of Delayed Reopening in Controlling the COVID-19 Surge in Southern and West-Central USA](https://doi.org/10.34133/2021/9798302) | Damon |
+| 2022-04-15 | Research update: Accounting for reporting delays in real-time phylodynamic analyses | Catalina |
+| 2022-04-22 | TBD | Isaac |
+| 2022-04-29 | TBD | Yushang |
+| 2022-05-06 | TBD | Thanasi |
+| 2022-05-13 | TBD | Jessalyn |
+| 2022-05-20 | TBD | Damon |
+| 2022-05-27 | TBD | Catalina |
+| 2022-06-03 | TBD | Isaac |
 
 Put yourself on the calendar like this:
 ```
-| March 13   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Vladimir |
+| 2022-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Vladimir |
 ```
