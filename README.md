@@ -11,7 +11,7 @@
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
 | 2022-04-08 | [Implications of Delayed Reopening in Controlling the COVID-19 Surge in Southern and West-Central USA](https://doi.org/10.34133/2021/9798302) | Damon |
-| 2022-04-15 | Research update: Accounting for reporting delays in real-time phylodynamic analyses | Catalina |
+| 2022-04-15 | [Unlocking capacities of genomics for the COVID-19 response and future pandemics](https://www.nature.com/articles/s41592-022-01444-z) | Catalina |
 | 2022-04-22 | TBD | Yushang |
 | 2022-04-29 | TBD | Isaac |
 | 2022-05-06 | TBD | Thanasi |
