@@ -15,8 +15,8 @@
 | 2022-04-22 | TBD | Yushang |
 | 2022-04-29 | [Bayesian nonparametric inference for heterogeneously mixing infectious disease models](https://www.pnas.org/doi/10.1073/pnas.2118425119) | Isaac |
 | 2022-05-06 | TBD | Thanasi |
-| 2022-05-13 | TBD | Jessalyn |
-| 2022-05-20 | TBD | Damon |
+| 2022-05-13 | Mock Advancement | Damon |
+| 2022-05-20 | TBD | Jessalyn |
 | 2022-05-27 | TBD | Catalina |
 | 2022-06-03 | TBD | Isaac |
 
