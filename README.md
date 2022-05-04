@@ -4,7 +4,7 @@
 
 *Time*: Fridays, 11-12pm
 
-*Location*: Zoom (For now)
+*Location*: The park
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
