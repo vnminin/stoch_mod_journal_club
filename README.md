@@ -16,9 +16,9 @@
 | 2022-04-29 | [Bayesian nonparametric inference for heterogeneously mixing infectious disease models](https://www.pnas.org/doi/10.1073/pnas.2118425119) | Isaac |
 | 2022-05-06 | [Generalizing Tree Probability Estimation via Bayesian Networks](https://proceedings.neurips.cc/paper/2018/file/b137fdd1f79d56c7edf3365fea7520f2-Paper.pdf) | Thanasi |
 | 2022-05-13 | Mock Advancement | Damon |
-| 2022-05-20 | TBD | Jessalyn |
+| 2022-05-20 | TBD | Isaac |
 | 2022-05-27 | TBD | Catalina |
-| 2022-06-03 | TBD | Isaac |
+| 2022-06-03 | TBD | Jessalyn |
 
 Put yourself on the calendar like this:
 ```
