@@ -17,8 +17,8 @@
 | 2022-05-06 | [Generalizing Tree Probability Estimation via Bayesian Networks](https://proceedings.neurips.cc/paper/2018/file/b137fdd1f79d56c7edf3365fea7520f2-Paper.pdf) | Thanasi |
 | 2022-05-13 | Mock Advancement | Damon |
 | 2022-05-20 | Practice Advancment Talk | Yushang |
-| 2022-05-27 | TBD | Catalina |
-| 2022-06-03 | TBD | Jessalyn |
+| 2022-05-27 | No meeting | |
+| 2022-06-03 | End of year barbeque | |
 
 Put yourself on the calendar like this:
 ```
