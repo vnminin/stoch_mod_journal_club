@@ -14,7 +14,7 @@
 | 2022-08-05 | [outbreaker2: a modular platform for outbreak reconstruction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2330-z) | Jessalyn |
 | 2022-08-12 |  |  |
 | 2022-08-19 | no meeting (ISI-BUDS Closing Symposium) |  |
-| 2022-08-26 |  | |
+| 2022-08-26 | Practice Advancement Talk | Isaac |
 | 2022-09-02 |  |  |
 | 2022-09-09 |  |  |
 | 2022-09-16 | |  |
