@@ -16,9 +16,10 @@
 | 2022-08-19 | no meeting (ISI-BUDS Closing Symposium) |  |
 | 2022-08-26 | Practice Advancement Talk | Isaac |
 | 2022-09-02 | no meeting |  |
-| 2022-09-09 |  | Catalina  |
-| 2022-09-16 | | Thanasi |
-| 2022-09-23 |  |  |
+| 2022-09-09 | no meeting |  |
+| 2022-09-16 | | Catalina |
+| 2022-09-23 | no meeting |  |
+|2022-09-30| |Thanasi?|
 
 Put yourself on the calendar like this:
 ```
