@@ -17,7 +17,7 @@
 | 2022-08-26 | Practice Advancement Talk | Isaac |
 | 2022-09-02 | no meeting |  |
 | 2022-09-09 | no meeting |  |
-| 2022-09-16 | | Catalina |
+| 2022-09-16 | [Estimating effective population size changes from preferentially sampled genetic sequences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007774)| Catalina |
 | 2022-09-23 | no meeting |  |
 |2022-09-30| |Thanasi?|
 
