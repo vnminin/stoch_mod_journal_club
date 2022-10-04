@@ -8,18 +8,18 @@
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Week | Date       | Presentation                                                                     | Presenter |
-|----------------|----------------|-----------------------|-----------------|
-| 1    | 2022-09-30 | [The reconstructed evolutionary process](https://doi.org/10.1098/rstb.1994.0068) | Thanasi   |
-| 2    | 2022-10-07 |                                                                                  | Damon     |
-| 3    | 2022-10-14 |                                                                                  | Yushang   |
-| 4    | 2022-10-21 |                                                                                  | Isaac     |
-| 5    | 2022-10-28 |                                                                                  | Jessalyn  |
-| 6    | 2022-11-04 |                                                                                  | Catalina  |
-| 7    | 2022-11-11 | Veteran's Day                                                                    | None      |
-| 8    | 2022-11-18 |                                                                                  | Yushang   |
-| 9    | 2022-11-25 | Thanksgiving                                                                     | None      |
-| 10   | 2022-12-02 |                                                                                  | Damon     |
+| Week | Date | Presentation | Presenter |
+| ---- | ---- | ------------ | --------- |
+| 1 | 2022-09-30 | [The reconstructed evolutionary process](https://doi.org/10.1098/rstb.1994.0068) | Thanasi |
+| 2 | 2022-10-07 | [An expert judgment model to predict early stages of the COVID-19 pandemic in the United States](https://doi.org/10.1371/journal.pcbi.1010485) | Damon |
+| 3 | 2022-10-14 | TBD | Yushang |
+| 4 | 2022-10-21 | TBD | Isaac |
+| 5 | 2022-10-28 | TBD | Jessalyn |
+| 6 | 2022-11-04 | TBD | Catalina |
+| 7 | 2022-11-11 | Veteran's Day | None |
+| 8 | 2022-11-18 | TBD | Yushang |
+| 9 | 2022-11-25 | Thanksgiving | None |
+| 10 | 2022-12-02 | [Structural identifiability analysis of epidemic models based on differential equations: A Primer](https://doi.org/10.48550/arXiv.2209.12821) | Damon |
 
 Put yourself on the calendar like this:
 
