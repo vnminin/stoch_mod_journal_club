@@ -12,7 +12,7 @@
 | ---- | ---- | ------------ | --------- |
 | 1 | 2022-09-30 | [The reconstructed evolutionary process](https://doi.org/10.1098/rstb.1994.0068) | Thanasi |
 | 2 | 2022-10-07 | [An expert judgment model to predict early stages of the COVID-19 pandemic in the United States](https://doi.org/10.1371/journal.pcbi.1010485) | Damon |
-| 3 | 2022-10-14 | TBD | Yushang |
+| 3 | 2022-10-14 | [Topological sensitivity analysis for systems biology](https://doi.org/10.1073/pnas.1414026112) | Yushang |
 | 4 | 2022-10-21 | TBD | Isaac |
 | 5 | 2022-10-28 | TBD | Jessalyn |
 | 6 | 2022-11-04 | TBD | Catalina |
