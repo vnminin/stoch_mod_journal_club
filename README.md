@@ -15,11 +15,11 @@
 | 3 | 2022-10-14 | [Topological sensitivity analysis for systems biology](https://doi.org/10.1073/pnas.1414026112) | Yushang |
 | 4 | 2022-10-21 | TBD | Isaac |
 | 5 | 2022-10-28 | TBD | Jessalyn |
-| 6 | 2022-11-04 | TBD | Catalina |
+| 6 | 2022-11-04 | Birth–death processes Part 1 | Volodymyr |
 | 7 | 2022-11-11 | Veteran's Day | None |
-| 8 | 2022-11-18 | TBD | Yushang |
+| 8 | 2022-11-18 | Birth–death processes Part 2 | Volodymyr |
 | 9 | 2022-11-25 | Thanksgiving | None |
-| 10 | 2022-12-02 | [Structural identifiability analysis of epidemic models based on differential equations: A Primer](https://doi.org/10.48550/arXiv.2209.12821) | Damon |
+| 10 | 2022-12-02 |  | Catalina |
 
 Put yourself on the calendar like this:
 
