@@ -19,7 +19,7 @@
 | 7 | 2022-11-11 | Veteran's Day | None |
 | 8 | 2022-11-18 | Birth–death processes Part 2 | Volodymyr |
 | 9 | 2022-11-25 | Thanksgiving | None |
-| 10 | 2022-12-02 |  | Catalina |
+| 10 | 2022-12-02 | TBD | Catalina |
 
 Put yourself on the calendar like this:
 
