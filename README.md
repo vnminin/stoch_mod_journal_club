@@ -15,9 +15,9 @@
 | 3 | 2022-10-14 | [Topological sensitivity analysis for systems biology](https://doi.org/10.1073/pnas.1414026112) | Yushang |
 | 4 | 2022-10-21 | Birth–death processes Part 1 | Volodymyr |
 | 5 | 2022-10-28 | [Comparing transmission reconstruction models with Mycobacterium tuberculosis whole genome sequence data](https://doi.org/10.1101/2022.01.07.475333) | Jessalyn |
-| 6 | 2022-11-04 | [Epidemiological inference for emerging viruses using segregating sites](https://www.biorxiv.org/content/10.1101/2021.07.07.451508v2) | Isaac |
+| 6 | 2022-11-04 | Birth–death processes Part 2 | Volodymyr |
 | 7 | 2022-11-11 | Veteran's Day | None |
-| 8 | 2022-11-18 | Birth–death processes Part 2 | Volodymyr |
+| 8 | 2022-11-18 | [Epidemiological inference for emerging viruses using segregating sites](https://www.biorxiv.org/content/10.1101/2021.07.07.451508v2) | Isaac |
 | 9 | 2022-11-25 | Thanksgiving | None |
 | 10 | 2022-12-02 | TBD | Catalina |
 
