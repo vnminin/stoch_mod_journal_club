@@ -10,20 +10,20 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 2 | 2023-01-20 | Statistical phylogenetics | Volodymyr |
-| 3 | 2023-01-27 | TBD | Isaac |
-| 4 | 2023-02-03 | TBD | Catalina |
-| 5 | 2023-02-10 | TBD | Thanasi  |
-| 6 | 2023-02-17 | TBD | Damon |
-| 7 | 2023-02-24 | TBD | Yushang |
-| 8 | 2023-03-03 | TBD | Jessalyn |
-| 9 | 2023-03-10 | TBD | Isaac |
-| 10 | 2023-03-17 | TBD | Catalina |
+| 2 | 2023-01-20 | No meeting |  |
+| 3 | 2023-01-27 | Statistical phylogenetics | Volodymyr |
+| 4 | 2023-02-03 | TBD | Isaac |
+| 5 | 2023-02-10 | TBD | Catalina  |
+| 6 | 2023-02-17 | TBD | Thanasi |
+| 7 | 2023-02-24 | TBD | Damon |
+| 8 | 2023-03-03 | TBD | Yushang |
+| 9 | 2023-03-10 | TBD | Jessalyn |
+| 10 | 2023-03-17 | TBD | Isaac |
 
 
 Put yourself on the calendar like this:
 
-    | 2022-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Vladimir |
+    | 2022-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Volodymyr |
 
 # How to Host Journal Club
 
