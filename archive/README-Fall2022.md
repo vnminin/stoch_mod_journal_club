@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Winter 2023
+## Fall 2022
 
 *Time*: Fridays, 11-12pm
 
@@ -10,20 +10,20 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 2 | 2023-01-20 | No meeting |  |
-| 3 | 2023-01-27 | Statistical phylogenetics | Volodymyr |
-| 4 | 2023-02-03 | TBD | Isaac |
-| 5 | 2023-02-10 | TBD | Catalina  |
-| 6 | 2023-02-17 | TBD | Thanasi |
-| 7 | 2023-02-24 | TBD | Damon |
-| 8 | 2023-03-03 | TBD | Yushang |
-| 9 | 2023-03-10 | TBD | Jessalyn |
-| 10 | 2023-03-17 | TBD | Isaac |
-
+| 1 | 2022-09-30 | [The reconstructed evolutionary process](https://doi.org/10.1098/rstb.1994.0068) | Thanasi |
+| 2 | 2022-10-07 | [An expert judgment model to predict early stages of the COVID-19 pandemic in the United States](https://doi.org/10.1371/journal.pcbi.1010485) | Damon |
+| 3 | 2022-10-14 | [Topological sensitivity analysis for systems biology](https://doi.org/10.1073/pnas.1414026112) | Yushang |
+| 4 | 2022-10-21 | Birth–death processes Part 1 | Volodymyr |
+| 5 | 2022-10-28 | [Comparing transmission reconstruction models with Mycobacterium tuberculosis whole genome sequence data](https://doi.org/10.1101/2022.01.07.475333) | Jessalyn |
+| 6 | 2022-11-04 | Birth–death processes Part 2 | Volodymyr |
+| 7 | 2022-11-11 | Veteran's Day | None |
+| 8 | 2022-11-18 | [Epidemiological inference for emerging viruses using segregating sites](https://www.biorxiv.org/content/10.1101/2021.07.07.451508v2) | Isaac |
+| 9 | 2022-11-25 | Thanksgiving | None |
+| 10 | 2022-12-02 | TBD | Catalina |
 
 Put yourself on the calendar like this:
 
-    | 2022-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Volodymyr |
+    | 2022-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Vladimir |
 
 # How to Host Journal Club
 
