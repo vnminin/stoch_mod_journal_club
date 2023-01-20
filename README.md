@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Fall 2022
+## Winter 2023
 
 *Time*: Fridays, 11-12pm
 
@@ -10,16 +10,16 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 1 | 2022-09-30 | [The reconstructed evolutionary process](https://doi.org/10.1098/rstb.1994.0068) | Thanasi |
-| 2 | 2022-10-07 | [An expert judgment model to predict early stages of the COVID-19 pandemic in the United States](https://doi.org/10.1371/journal.pcbi.1010485) | Damon |
-| 3 | 2022-10-14 | [Topological sensitivity analysis for systems biology](https://doi.org/10.1073/pnas.1414026112) | Yushang |
-| 4 | 2022-10-21 | Birth–death processes Part 1 | Volodymyr |
-| 5 | 2022-10-28 | [Comparing transmission reconstruction models with Mycobacterium tuberculosis whole genome sequence data](https://doi.org/10.1101/2022.01.07.475333) | Jessalyn |
-| 6 | 2022-11-04 | Birth–death processes Part 2 | Volodymyr |
-| 7 | 2022-11-11 | Veteran's Day | None |
-| 8 | 2022-11-18 | [Epidemiological inference for emerging viruses using segregating sites](https://www.biorxiv.org/content/10.1101/2021.07.07.451508v2) | Isaac |
-| 9 | 2022-11-25 | Thanksgiving | None |
-| 10 | 2022-12-02 | TBD | Catalina |
+| 2 | 2023-01-20 | Statistical phylogenetics | Volodymyr |
+| 3 | 2023-01-27 | TBD | Isaac |
+| 4 | 2023-02-03 | TBD | Catalina |
+| 5 | 2023-02-10 | TBD | Thanasi  |
+| 6 | 2023-02-17 | TBD | Damon |
+| 7 | 2023-02-24 | TBD | Yushang |
+| 8 | 2023-03-03 | TBD | Jessalyn |
+| 9 | 2023-03-10 | TBD | Isaac |
+| 10 | 2023-03-17 | TBD | Catalina |
+
 
 Put yourself on the calendar like this:
 
