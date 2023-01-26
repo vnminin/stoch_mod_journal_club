@@ -10,7 +10,7 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 2 | 2023-01-20 | No meeting |  |
+| 2 | 2023-01-20 | No meeting | NA |
 | 3 | 2023-01-27 | Statistical phylogenetics | Volodymyr |
 | 4 | 2023-02-03 | TBD | Isaac |
 | 5 | 2023-02-10 | TBD | Catalina  |
@@ -18,7 +18,7 @@
 | 7 | 2023-02-24 | TBD | Damon |
 | 8 | 2023-03-03 | TBD | Yushang |
 | 9 | 2023-03-10 | TBD | Jessalyn |
-| 10 | 2023-03-17 | TBD | Isaac |
+| 10 | 2023-03-17 | No meeting | NA |
 
 
 Put yourself on the calendar like this:
