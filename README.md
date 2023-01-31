@@ -12,7 +12,7 @@
 | ---- | ---- | ------------ | --------- |
 | 2 | 2023-01-20 | No meeting | NA |
 | 3 | 2023-01-27 | Statistical phylogenetics | Volodymyr |
-| 4 | 2023-02-03 | TBD | Isaac |
+| 4 | 2023-02-03 | Research Update: Estimating Rt with Wastewater data | Isaac |
 | 5 | 2023-02-10 | TBD | Catalina  |
 | 6 | 2023-02-17 | TBD | Thanasi |
 | 7 | 2023-02-24 | TBD | Damon |
