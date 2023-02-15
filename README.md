@@ -14,7 +14,7 @@
 | 3 | 2023-01-27 | Statistical phylogenetics | Volodymyr |
 | 4 | 2023-02-03 | Research Update: Estimating Rt with Wastewater data | Isaac |
 | 5 | 2023-02-10 | [SARS-CoV-2 variant dynamics across US states show consistent differences in effective reproduction numbers](https://bedford.io/papers/figgins-rt-from-frequency-dynamics/) | Catalina  |
-| 6 | 2023-02-17 | TBD | Thanasi |
+| 6 | 2023-02-17 | [Estimating a Binary Character's Effect on Speciation and Extinction](https://doi.org/10.1080/10635150701607033) | Thanasi |
 | 7 | 2023-02-24 | TBD | Damon |
 | 8 | 2023-03-03 | TBD | Yushang |
 | 9 | 2023-03-10 | TBD | Jessalyn |
