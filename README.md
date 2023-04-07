@@ -1,24 +1,25 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Winter 2023
+## Spring 2023
 
 *Time*: Fridays, 11-12pm
 
-*Location*: Calit2 courtyard
+*Location*: TBD
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 2 | 2023-01-20 | No meeting | NA |
-| 3 | 2023-01-27 | Statistical phylogenetics | Volodymyr |
-| 4 | 2023-02-03 | Research Update: Estimating Rt with Wastewater data | Isaac |
-| 5 | 2023-02-10 | [SARS-CoV-2 variant dynamics across US states show consistent differences in effective reproduction numbers](https://bedford.io/papers/figgins-rt-from-frequency-dynamics/) | Catalina  |
-| 6 | 2023-02-17 | [Estimating a Binary Character's Effect on Speciation and Extinction](https://doi.org/10.1080/10635150701607033) | Thanasi |
-| 7 | 2023-02-24 | [Model Diagnostics and Forecast Evaluation for Quantiles](https://doi.org/10.1146/annurev-statistics-032921-020240)  | Damon |
-| 8 | 2023-03-03 | [Estimating the relative probability of direct transmission between infectious disease patients](https://pubmed.ncbi.nlm.nih.gov/32211747/) | Jessalyn |
-| 9 | 2023-03-10 | TBD | Yushang |
-| 10 | 2023-03-17 | No meeting | NA |
+| 1 | 2023-04-07 | No meeting :( | NA |
+| 2 | 2023-04-14 |  | Yushang |
+| 3 | 2023-04-21 |  | Isaac |
+| 4 | 2023-04-28 |  | Catalina  |
+| 5 | 2023-05-05 |  | Damon |
+| 6 | 2023-05-12 |  | Thanasi |
+| 7 | 2023-05-19 | | Jessalyn |
+| 8 | 2023-05-26 | | Isaac |
+| 9 | 2023-06-02 | Defense Practice | Yushang  |
+| 10 | 2023-06-09 | Defense Practice | Damon |
 
 
 Put yourself on the calendar like this:
