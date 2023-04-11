@@ -11,8 +11,7 @@
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
 | 1 | 2023-04-07 | No meeting :( | NA |
-| 2 | 2023-04-14 | [Bayesian experimental design without posterior calculations: an adversarial approach](
-https://doi.org/10.48550/arXiv.1904.05703) | Yushang |
+| 2 | 2023-04-14 | [Bayesian experimental design without posterior calculations: an adversarial approach](https://doi.org/10.48550/arXiv.1904.05703) | Yushang |
 | 3 | 2023-04-21 |  | Isaac |
 | 4 | 2023-04-28 |  | Catalina  |
 | 5 | 2023-05-05 |  | Damon |
