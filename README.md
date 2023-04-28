@@ -13,7 +13,7 @@
 | 1 | 2023-04-07 | No meeting :( | NA |
 | 2 | 2023-04-14 | [Bayesian experimental design without posterior calculations: an adversarial approach](https://doi.org/10.48550/arXiv.1904.05703) | Yushang |
 | 3 | 2023-04-21 | [Pathfinder: Parallel quasi-Newton variational inference](https://arxiv.org/abs/2108.03782) | Isaac |
-| 4 | 2023-04-28 |  | Catalina  |
+| 4 | 2023-04-28 | Research update: Incorporating reporting delays into phylodynamic analyses | Catalina  |
 | 5 | 2023-05-05 |  | Damon |
 | 6 | 2023-05-12 |  | Thanasi |
 | 7 | 2023-05-19 | | Jessalyn |
