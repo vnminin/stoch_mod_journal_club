@@ -15,7 +15,7 @@
 | 3 | 2023-04-21 | [Pathfinder: Parallel quasi-Newton variational inference](https://arxiv.org/abs/2108.03782) | Isaac |
 | 4 | 2023-04-28 | Research update: Incorporating reporting delays into phylodynamic analyses | Catalina  |
 | 5 | 2023-05-05 | [Probabilistic Forecasts, Calibration and Sharpness](https://doi.org/10.1111/j.1467-9868.2007.00587.x) | Damon |
-| 6 | 2023-05-12 |  | Thanasi |
+| 6 | 2023-05-12 | [A Multitype Birth–Death Model for Bayesian Inference of Lineage-Specific Birth and Death Rates](https://academic.oup.com/sysbio/article/69/5/973/5762626) and [https://www.nature.com/articles/s41467-022-31511-0](https://www.nature.com/articles/s41467-022-31511-0) | Thanasi |
 | 7 | 2023-05-19 | | Jessalyn |
 | 8 | 2023-05-26 | | Isaac |
 | 9 | 2023-06-02 | Defense Practice | Yushang  |
