@@ -16,8 +16,8 @@
 | 4 | 2023-04-28 | Research update: Incorporating reporting delays into phylodynamic analyses | Catalina  |
 | 5 | 2023-05-05 | [Probabilistic Forecasts, Calibration and Sharpness](https://doi.org/10.1111/j.1467-9868.2007.00587.x) | Damon |
 | 6 | 2023-05-12 | [A Multitype Birth–Death Model for Bayesian Inference of Lineage-Specific Birth and Death Rates](https://academic.oup.com/sysbio/article/69/5/973/5762626) and [Deep learning from phylogenies to uncover the epidemiological dynamics of outbreaks](https://www.nature.com/articles/s41467-022-31511-0) | Thanasi |
-| 7 | 2023-05-19 | | Jessalyn |
-| 8 | 2023-05-26 | | Isaac |
+| 7 | 2023-05-19 | [Locally Adaptive Smoothing with Markov Random Fields and Shrinkage Priors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942601/)| Jessalyn |
+| 8 | 2023-05-26 | [Automatic Zig-Zag sampling in practice](https://link.springer.com/article/10.1007/s11222-022-10142-x) | Isaac |
 | 9 | 2023-06-02 | Defense Practice | Yushang  |
 | 10 | 2023-06-09 | Defense Practice | Damon |
 
