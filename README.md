@@ -20,6 +20,7 @@
 | 8 | 2023-05-26 | [Automatic Zig-Zag sampling in practice](https://link.springer.com/article/10.1007/s11222-022-10142-x) | Isaac |
 | 9 | 2023-06-02 | Defense Practice | Yushang  |
 | 10 | 2023-06-09 | Defense Practice | Damon |
+| 11 | 2023-06-13 | Damon's Dissertation Defense :shield: :student: | Damon | 
 
 
 Put yourself on the calendar like this:
