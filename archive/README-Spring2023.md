@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Summer 2023
+## Spring 2023
 
 *Time*: Fridays, 11-12pm
 
@@ -10,15 +10,17 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 1 | 2023-08-04 | State of the Group address | Volodymyr |
-| 2 | 2023-08-11 | [Assessing the utility of COVID-19 case reports as a leading indicator for hospitalization forecasting in the United States](https://doi.org/10.1101/2023.03.08.23286582) | Thanasi |
-| 3 | 2023-08-18 | _No meeting_ |  |
-| 4 | 2023-08-25 | TBD _(\*Meet at 12 pm today\*)_ | Jessalyn  |
-| 5 | 2023-09-01 | TBD | Isaac |
-| 6 | 2023-09-08 | TBD | Catalina |
-| 7 | 2023-09-15 | TBD | Thanasi |
-| 8 | 2023-09-22 | TBD | Isaac |
-| Fall week 0 | 2023-09-29 | TBD | Jessalyn  |
+| 1 | 2023-04-07 | No meeting :( | NA |
+| 2 | 2023-04-14 | [Bayesian experimental design without posterior calculations: an adversarial approach](https://doi.org/10.48550/arXiv.1904.05703) | Yushang |
+| 3 | 2023-04-21 | [Pathfinder: Parallel quasi-Newton variational inference](https://arxiv.org/abs/2108.03782) | Isaac |
+| 4 | 2023-04-28 | Research update: Incorporating reporting delays into phylodynamic analyses | Catalina  |
+| 5 | 2023-05-05 | [Probabilistic Forecasts, Calibration and Sharpness](https://doi.org/10.1111/j.1467-9868.2007.00587.x) | Damon |
+| 6 | 2023-05-12 | [A Multitype Birth–Death Model for Bayesian Inference of Lineage-Specific Birth and Death Rates](https://academic.oup.com/sysbio/article/69/5/973/5762626) and [Deep learning from phylogenies to uncover the epidemiological dynamics of outbreaks](https://www.nature.com/articles/s41467-022-31511-0) | Thanasi |
+| 7 | 2023-05-19 | [Locally Adaptive Smoothing with Markov Random Fields and Shrinkage Priors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942601/)| Jessalyn |
+| 8 | 2023-05-26 | [Automatic Zig-Zag sampling in practice](https://link.springer.com/article/10.1007/s11222-022-10142-x) | Isaac |
+| 9 | 2023-06-02 | Defense Practice | Yushang  |
+| 10 | 2023-06-09 | Defense Practice | Damon |
+| 11 | 2023-06-13 | Damon's Dissertation Defense :shield: :student: | Damon | 
 
 
 Put yourself on the calendar like this:
