@@ -13,7 +13,7 @@
 | 1 | 2023-08-04 | State of the Group address | Volodymyr |
 | 2 | 2023-08-11 | [Assessing the utility of COVID-19 case reports as a leading indicator for hospitalization forecasting in the United States](https://doi.org/10.1101/2023.03.08.23286582) | Thanasi |
 | 3 | 2023-08-18 | _No meeting_ |  |
-| 4 | 2023-08-25 | TBD _(\*Meet at 12 pm today\*)_ | Jessalyn  |
+| 4 | 2023-08-25 | _No meeting_ |  |
 | 5 | 2023-09-01 | TBD | Isaac |
 | 6 | 2023-09-08 | TBD | Catalina |
 | 7 | 2023-09-15 | TBD | Thanasi |
