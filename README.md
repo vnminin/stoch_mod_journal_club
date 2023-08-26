@@ -10,6 +10,7 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
+| 0 | 2023-07-28 | 10 min research updates | everyone
 | 1 | 2023-08-04 | State of the Group address | Volodymyr |
 | 2 | 2023-08-11 | [Assessing the utility of COVID-19 case reports as a leading indicator for hospitalization forecasting in the United States](https://doi.org/10.1101/2023.03.08.23286582) | Thanasi |
 | 3 | 2023-08-18 | _No meeting_ |  |
