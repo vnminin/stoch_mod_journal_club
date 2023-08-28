@@ -16,7 +16,7 @@
 | 3 | 2023-08-18 | _No meeting_ |  |
 | 4 | 2023-08-25 | _No meeting_ |  |
 | 5 | 2023-09-01 | TBD | Isaac |
-| 6 | 2023-09-08 | TBD | Christian |
+| 6 | 2023-09-08 | Visualizing and evaluating COVID-19 forecasts | Christian |
 |   |            | TBD | Catalina |
 | 7 | 2023-09-15 | TBD | Thanasi |
 | 8 | 2023-09-22 | TBD | Isaac |
