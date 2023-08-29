@@ -15,7 +15,7 @@
 | 2 | 2023-08-11 | [Assessing the utility of COVID-19 case reports as a leading indicator for hospitalization forecasting in the United States](https://doi.org/10.1101/2023.03.08.23286582) | Thanasi |
 | 3 | 2023-08-18 | _No meeting_ |  |
 | 4 | 2023-08-25 | _No meeting_ |  |
-| 5 | 2023-09-01 | TBD | Isaac |
+| 5 | 2023-09-01 | [Bayesian estimation of real-time epidemic growth rates using Gaussian processes: local dynamics of SARS-CoV-2 in England](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlad056/7209012) | Isaac |
 | 6 | 2023-09-08 | Visualizing and evaluating COVID-19 forecasts | Christian |
 |   |            | TBD | Catalina |
 | 7 | 2023-09-15 | TBD | Thanasi |
