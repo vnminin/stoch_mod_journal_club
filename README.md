@@ -17,9 +17,8 @@
 | 4 | 2023-08-25 | _No meeting_ |  |
 | 5 | 2023-09-01 | [Bayesian estimation of real-time epidemic growth rates using Gaussian processes: local dynamics of SARS-CoV-2 in England](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlad056/7209012) | Isaac |
 | 6 | 2023-09-08 | Visualizing and evaluating COVID-19 forecasts | Christian |
-|   |            | TBD | Catalina |
-| 7 | 2023-09-15 | TBD | Thanasi |
-| 8 | 2023-09-22 | TBD | Isaac |
+| 7 | 2023-09-15 | _No meeting_ |  |
+| 8 | 2023-09-22 | _No meeting_ |  |
 | Fall week 0 | 2023-09-29 | TBD | Jessalyn  |
 
 
