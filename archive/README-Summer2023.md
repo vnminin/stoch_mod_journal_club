@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Fall 2023
+## Summer 2023
 
 *Time*: Fridays, 11-12pm
 
@@ -10,18 +10,15 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 0 | 2023-09-29 | _No meeting_ |  |
-| 1 | 2023-10-06 | _TBD_ |  |
-| 2 | 2023-10-13 | _TBD_ |  |
-| 3 | 2023-10-20 | _TBD_ |  |
-| 4 | 2023-10-27 | _TBD_ |  |
-| 5 | 2023-11-03 | _TBD_ |  |
-| 6 | 2023-11-10 | _TBD_ |  |
-| 7 | 2023-11-17 | _TBD_ |  |
-| 8 | 2023-11-24 | _TBD_ |  |
-| 9 | 2023-12-01 | _TBD_ |  |
-| 10 | 2023-12-08 | _TBD_ |  |
-| Finals | 2023-12-15 | _TBD_ |  |
+| 0 | 2023-07-28 | 10 min research updates | everyone
+| 1 | 2023-08-04 | State of the Group address | Volodymyr |
+| 2 | 2023-08-11 | [Assessing the utility of COVID-19 case reports as a leading indicator for hospitalization forecasting in the United States](https://doi.org/10.1101/2023.03.08.23286582) | Thanasi |
+| 3 | 2023-08-18 | _No meeting_ |  |
+| 4 | 2023-08-25 | _No meeting_ |  |
+| 5 | 2023-09-01 | [Bayesian estimation of real-time epidemic growth rates using Gaussian processes: local dynamics of SARS-CoV-2 in England](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlad056/7209012) | Isaac |
+| 6 | 2023-09-08 | Visualizing and evaluating COVID-19 forecasts | Christian |
+| 7 | 2023-09-15 | _No meeting_ |  |
+| 8 | 2023-09-22 | _No meeting_ |  |
 
 
 Put yourself on the calendar like this:
