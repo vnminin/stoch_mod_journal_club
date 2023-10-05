@@ -11,8 +11,8 @@
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
 | 0 | 2023-09-29 | _No meeting_ |  |
-| 1 | 2023-10-06 (9:00 am) | _TBD_ |  |
-| 2 | 2023-10-13 | _TBD_ |  |
+| 1 | 2023-10-06 (9:00 am) | [Docker Demo](https://github.com/thanasibakis/docker-demo) | Thanasi |
+| 2 | 2023-10-13 | _TBD_ | Jessalyn |
 | 3 | 2023-10-20 | _TBD_ |  |
 | 4 | 2023-10-27 | _TBD_ |  |
 | 5 | 2023-11-03 | _TBD_ |  |
