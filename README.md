@@ -13,15 +13,15 @@
 | 0 | 2023-09-29 | _No meeting_ |  |
 | 1 | 2023-10-06 (9:00 am) | [Docker Demo](https://github.com/thanasibakis/docker-demo) | Thanasi |
 | 2 | 2023-10-13 | _TBD_ | Jessalyn |
-| 3 | 2023-10-20 | _TBD_ |  |
-| 4 | 2023-10-27 | _TBD_ |  |
-| 5 | 2023-11-03 | _TBD_ |  |
-| 6 | 2023-11-10 | _TBD_ |  |
-| 7 | 2023-11-17 | _TBD_ |  |
-| 8 | 2023-11-24 | _TBD_ |  |
-| 9 | 2023-12-01 | _TBD_ |  |
-| 10 | 2023-12-08 | _TBD_ |  |
-| Finals | 2023-12-15 | _TBD_ |  |
+| 3 | 2023-10-20 | _TBD_ | Isaac |
+| 4 | 2023-10-27 | _TBD_ | Catalina |
+| 5 | 2023-11-03 | _TBD_ | Thanasi |
+| 6 | 2023-11-10 | _No meeting: Veteran's Day_ |  |
+| 7 | 2023-11-17 | _TBD_ | Jessalyn |
+| 8 | 2023-11-24 | _No meeting: Thanksgiving Holiday_ |  |
+| 9 | 2023-12-01 | _TBD_ | Catalina |
+| 10 | 2023-12-08 | _TBD_ | Isaac |
+| Finals | 2023-12-15 | _TBD_ | Jessalyn |
 
 
 Put yourself on the calendar like this:
