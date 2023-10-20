@@ -13,15 +13,15 @@
 | 0 | 2023-09-29 | _No meeting_ |  |
 | 1 | 2023-10-06 (9:00 am) | [Docker Demo](https://github.com/thanasibakis/docker-demo) | Thanasi |
 | 2 | 2023-10-13 | [A Hierarchical Semiparametric Regression Model for Combining HIV-1 Phylogenetic Analyses Using Iterative Reweighting Algorithms](https://onlinelibrary.wiley.com/doi/10.1111/j.1541-0420.2007.00753.x) | Jessalyn |
-| 3 | 2023-10-20 | [Elliptical Slice Sampling](http://proceedings.mlr.press/v9/murray10a/murray10a.pdf) | Isaac |
-| 4 | 2023-10-27 | _TBD_ | Catalina |
-| 5 | 2023-11-03 | _TBD_ | Thanasi |
+| 3 | 2023-10-20 | Crash Course: MCMC | Isaac |
+| 4 | 2023-10-27 | [Elliptical Slice Sampling](http://proceedings.mlr.press/v9/murray10a/murray10a.pdf) | Isaac |
+| 5 | 2023-11-03 | _TBD_ | Catalina |
 | 6 | 2023-11-10 | _No meeting: Veteran's Day_ |  |
-| 7 | 2023-11-17 | _TBD_ | Jessalyn |
+| 7 | 2023-11-17 | _TBD_ | Thanasi |
 | 8 | 2023-11-24 | _No meeting: Thanksgiving Holiday_ |  |
 | 9 | 2023-12-01 | _TBD_ | Catalina |
-| 10 | 2023-12-08 | _TBD_ | Isaac |
-| Finals | 2023-12-15 | _TBD_ | Jessalyn |
+| 10 | 2023-12-08 | _TBD_ | Jessalyn |
+| Finals | 2023-12-15 | _TBD_ | Isaac |
 
 
 Put yourself on the calendar like this:
