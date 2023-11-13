@@ -17,11 +17,11 @@
 | 4 | 2023-10-27 | [Elliptical Slice Sampling](http://proceedings.mlr.press/v9/murray10a/murray10a.pdf) | Isaac |
 | 5 | 2023-11-03 | [Past, Present, and Future of Software for Bayesian Inference](http://www.stat.columbia.edu/~gelman/research/published/Bayesian_software_review-8.pdf) | Catalina |
 | 6 | 2023-11-10 | _No meeting: Veteran's Day_ |  |
-| 7 | 2023-11-17 | _TBD_ | Thanasi |
+| 7 | 2023-11-17 | _No meeting_ |  |
 | 8 | 2023-11-24 | _No meeting: Thanksgiving Holiday_ |  |
 | 9 | 2023-12-01 | _TBD_ | Catalina |
 | 10 | 2023-12-08 | _TBD_ | Jessalyn |
-| Finals | 2023-12-15 | _TBD_ | Isaac |
+| Finals | 2023-12-15 | _TBD_ | Thanasi |
 
 
 Put yourself on the calendar like this:
