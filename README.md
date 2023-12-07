@@ -19,8 +19,8 @@
 | 6 | 2023-11-10 | _No meeting: Veteran's Day_ |  |
 | 7 | 2023-11-17 | _No meeting_ |  |
 | 8 | 2023-11-24 | _No meeting: Thanksgiving Holiday_ |  |
-| 9 | 2023-12-01 | _TBD_ | Catalina |
-| 10 | 2023-12-08 | _TBD_ | Jessalyn |
+| 9 | 2023-12-01 | Practice Advancement | Catalina |
+| 10 | 2023-12-08 | The Ornstein-Uhlenbeck Process as a Smoothing Prior (no reading) | Jessalyn |
 | Finals | 2023-12-15 | _TBD_ | Thanasi |
 
 
