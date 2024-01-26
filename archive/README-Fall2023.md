@@ -10,17 +10,18 @@
 
 | Week | Date | Presentation | Presenter |
 | ---- | ---- | ------------ | --------- |
-| 1 | 2024-01-12  | No Meeting | NA |
-| 2 | 2024-01-19 | No Meeting | NA |
-| 3 | 2024-01-26 | [The Lifebelt Particle Filter for robust estimation from low-valued count data](https://arxiv.org/abs/2212.04400) | Isaac |
-| 4 | 2024-02-02 |  | Thanasi |
-| 5 | 2024-02-09 | |  Catalina |
-| 6 | 2024-02-16 | No Meeting | NA |
-| 7 | 2024-02-23 |  | Jessalyn |
-| 8 | 2024-03-01 |  | Isaac |
-| 9 | 2024-03-08 |  | Thanasi |
-| 10 | 2024-03-15 | No Meeting |  |
-| Finals | 2024-03-22 |  | Catalina |
+| 0 | 2023-09-29 | _No meeting_ |  |
+| 1 | 2023-10-06 (9:00 am) | [Docker Demo](https://github.com/thanasibakis/docker-demo) | Thanasi |
+| 2 | 2023-10-13 | [A Hierarchical Semiparametric Regression Model for Combining HIV-1 Phylogenetic Analyses Using Iterative Reweighting Algorithms](https://onlinelibrary.wiley.com/doi/10.1111/j.1541-0420.2007.00753.x) | Jessalyn |
+| 3 | 2023-10-20 | Crash Course: MCMC | Isaac |
+| 4 | 2023-10-27 | [Elliptical Slice Sampling](http://proceedings.mlr.press/v9/murray10a/murray10a.pdf) | Isaac |
+| 5 | 2023-11-03 | [Past, Present, and Future of Software for Bayesian Inference](http://www.stat.columbia.edu/~gelman/research/published/Bayesian_software_review-8.pdf) | Catalina |
+| 6 | 2023-11-10 | _No meeting: Veteran's Day_ |  |
+| 7 | 2023-11-17 | _No meeting_ |  |
+| 8 | 2023-11-24 | _No meeting: Thanksgiving Holiday_ |  |
+| 9 | 2023-12-01 | Practice Advancement | Catalina |
+| 10 | 2023-12-08 | The Ornstein-Uhlenbeck Process as a Smoothing Prior (no reading) | Jessalyn |
+| Finals | 2023-12-15 | _TBD_ | Thanasi |
 
 
 Put yourself on the calendar like this:
