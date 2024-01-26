@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Fall 2023
+## Winter 2024
 
 *Time*: Fridays, 11-12pm
 
