@@ -21,7 +21,7 @@
 | 8 | 2023-11-24 | _No meeting: Thanksgiving Holiday_ |  |
 | 9 | 2023-12-01 | Practice Advancement | Catalina |
 | 10 | 2023-12-08 | The Ornstein-Uhlenbeck Process as a Smoothing Prior (no reading) | Jessalyn |
-| Finals | 2023-12-15 | _TBD_ | Thanasi |
+| Finals | 2023-12-15 | End of the year barbeque  | Thanasi |
 
 
 Put yourself on the calendar like this:
