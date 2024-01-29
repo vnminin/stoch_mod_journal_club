@@ -71,6 +71,8 @@ Journal club is a (usually) weekly meeting where someone in the group presents o
 
     -   Skim the paper before recommending it.
 
+    -   Show the paper to Volodymyr to get his green light for the chosen paper  
+
     -   **Tell everyone in advance** in the `#group_meetings` channel on Slack. The earlier the better.
 
     -   Give some context for why you want the group to read the paper. Ex:
@@ -108,6 +110,7 @@ Journal club is a (usually) weekly meeting where someone in the group presents o
         -   What didn't you understand?
 
 ## How to be an audience member
+
 
 -   [Read the paper.](https://github.com/jtleek/readingpapers)
 
