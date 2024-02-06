@@ -14,7 +14,7 @@
 | 2 | 2024-01-19 | No Meeting | NA |
 | 3 | 2024-01-26 | [The Lifebelt Particle Filter for robust estimation from low-valued count data](https://arxiv.org/abs/2212.04400) | Isaac |
 | 4 | 2024-02-02 | [Scoring epidemiological forecasts on transformed scales](https://www.medrxiv.org/content/10.1101/2023.01.23.23284722v2.full.pdf) | Thanasi |
-| 5 | 2024-02-09 | |  Catalina |
+| 5 | 2024-02-09 | [A modelling approach for correcting reporting delays in disease surveillance data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8303) |  Catalina |
 | 6 | 2024-02-16 | No Meeting | NA |
 | 7 | 2024-02-23 |  | Jessalyn |
 | 8 | 2024-03-01 |  | Isaac |
