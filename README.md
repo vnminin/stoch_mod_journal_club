@@ -16,8 +16,8 @@
 | 4 | 2024-02-02 | [Scoring epidemiological forecasts on transformed scales](https://www.medrxiv.org/content/10.1101/2023.01.23.23284722v2.full.pdf) | Thanasi |
 | 5 | 2024-02-09 | [A modelling approach for correcting reporting delays in disease surveillance data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8303) |  Catalina |
 | 6 | 2024-02-16 | No Meeting | NA |
-| 7 | 2024-02-23 |  | Jessalyn |
-| 8 | 2024-03-01 |  | Isaac |
+| 7 | 2024-02-23 | Sewage Statistics: A primer | Isaac |
+| 8 | 2024-03-01 |  | Jessalyn |
 | 9 | 2024-03-08 |  | Thanasi |
 | 10 | 2024-03-15 | No Meeting |  |
 | Finals | 2024-03-22 |  | Catalina |
