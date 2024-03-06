@@ -18,7 +18,7 @@
 | 6 | 2024-02-16 | No Meeting | NA |
 | 7 | 2024-02-23 | Sewage Statistics: A primer | Isaac |
 | 8 | 2024-03-01 | [Bayesian workflow for time-varying transmission in stratified compartmental infectious disease transmission models](https://www.medrxiv.org/content/10.1101/2023.10.09.23296742v1) | Jessalyn |
-| 9 | 2024-03-08 |  | Thanasi |
+| 9 | 2024-03-08 | [Variational inference for nonlinear ordinary differential equations](http://proceedings.mlr.press/v130/ghosh21b.html) | Thanasi |
 | 10 | 2024-03-15 | No Meeting |  |
 | Finals | 2024-03-22 |  | Catalina |
 
