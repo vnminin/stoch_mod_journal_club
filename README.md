@@ -1,26 +1,27 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Winter 2024
+## Spring 2024
 
 *Time*: Fridays, 11-12pm
 
-*Location*: DBH 2222
+*Location*: DBH 2011
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Week | Date | Presentation | Presenter |
-| ---- | ---- | ------------ | --------- |
-| 1 | 2024-01-12  | No Meeting | NA |
-| 2 | 2024-01-19 | No Meeting | NA |
-| 3 | 2024-01-26 | [The Lifebelt Particle Filter for robust estimation from low-valued count data](https://arxiv.org/abs/2212.04400) | Isaac |
-| 4 | 2024-02-02 | [Scoring epidemiological forecasts on transformed scales](https://www.medrxiv.org/content/10.1101/2023.01.23.23284722v2.full.pdf) | Thanasi |
-| 5 | 2024-02-09 | [A modelling approach for correcting reporting delays in disease surveillance data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8303) |  Catalina |
-| 6 | 2024-02-16 | No Meeting | NA |
-| 7 | 2024-02-23 | Sewage Statistics: A primer | Isaac |
-| 8 | 2024-03-01 | [Bayesian workflow for time-varying transmission in stratified compartmental infectious disease transmission models](https://www.medrxiv.org/content/10.1101/2023.10.09.23296742v1) | Jessalyn |
-| 9 | 2024-03-08 | [Variational inference for nonlinear ordinary differential equations](http://proceedings.mlr.press/v130/ghosh21b.html) | Thanasi |
-| 10 | 2024-03-15 | No Meeting |  |
-| Finals | 2024-03-22 |  | Catalina |
+| Week | Date     | Presentation | Presenter |
+|:----|:---------|:-------------|:----------|
+| 1 | 2024-04-05 | *No Meeting* | - |
+| 2 | 2024-04-12 | TBD | Isaac |
+| 3 | 2024-04-19 | *No Meeting* | - |
+| 4 | 2024-04-26 | TBD | Catalina |
+| 5 | 2024-05-03 | TBD | Thanasi |
+| 6 | 2024-05-10 | Isaac's practice defense | Isaac |
+| **6** | **2024-05-13 (1 pm)** | **Isaac's defense (DBH 2011)** | **Isaac** |
+| 7 | 2024-05-17 | TBD | Jessalyn |
+| 8 | 2024-05-24 | Thanasi's practice advancement | Thanasi |
+| **9** | **2024-05-31** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
+| 10 | 2024-06-07 | TBD | Catalina |
+| Finals | 2024-06-14 | Party? | - |
 
 
 Put yourself on the calendar like this:
