@@ -4,7 +4,7 @@
 
 *Time*: Fridays, 11-12pm
 
-*Location*: DBH 2011
+*Location*: DBH 2222
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
