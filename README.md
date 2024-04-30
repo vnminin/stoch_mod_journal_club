@@ -17,8 +17,8 @@
 | 5 | 2024-05-03 | *No Meeting* | - |
 | 6 | 2024-05-10 | Isaac's practice defense | Isaac |
 | **6** | **2024-05-13 (1 pm)** | **Isaac's defense (DBH 2011)** | **Isaac** |
-| 7 | 2024-05-17 | TBD | Jessalyn |
-| 8 | 2024-05-24 | TBD | Catalina |
+| 7 | 2024-05-17 | TBD | Catalina |
+| 8 | 2024-05-24 | TBD | Jessalyn |
 | 9 | 2024-05-31 | Thanasi's practice advancement | Thanasi |
 | **10** | **2024-06-04** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
 | 10 | 2024-06-07 | TBD | Catalina |
