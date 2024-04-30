@@ -14,11 +14,11 @@
 | 2 | 2024-04-12 | [Unifying incidence and prevalence under a time-varying general branching process](https://link.springer.com/article/10.1007/s00285-023-01958-w#Sec2) | Isaac |
 | 3 | 2024-04-19 | *No Meeting* | - |
 | 4 | 2024-04-26 | [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/published/philosophy) | Jessalyn |
-| 5 | 2024-05-03 | TBD | Catalina |
+| 5 | 2024-05-03 | *No Meeting* | - |
 | 6 | 2024-05-10 | Isaac's practice defense | Isaac |
 | **6** | **2024-05-13 (1 pm)** | **Isaac's defense (DBH 2011)** | **Isaac** |
 | 7 | 2024-05-17 | TBD | Jessalyn |
-| 8 | 2024-05-24 | **TBD** | **TBD** |
+| 8 | 2024-05-24 | TBD | Catalina |
 | 9 | 2024-05-31 | Thanasi's practice advancement | Thanasi |
 | **10** | **2024-06-04** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
 | 10 | 2024-06-07 | TBD | Catalina |
