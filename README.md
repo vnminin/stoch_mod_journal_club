@@ -17,12 +17,14 @@
 | 5 | 2024-05-03 | *No Meeting* | - |
 | 6 | 2024-05-10 | Isaac's practice defense | Isaac |
 | **6** | **2024-05-13 (1 pm)** | **Isaac's defense (DBH 2011)** | **Isaac** |
-| 7 | 2024-05-17 | TBD | Catalina |
-| 8 | 2024-05-24 | TBD | Jessalyn |
+| 7 | 2024-05-17 | **No Meeting** | - |
+| 8 | 2024-05-24 | TBD | Catalina |
 | 9 | 2024-05-31 | Thanasi's practice advancement | Thanasi |
-| **10** | **2024-06-04** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
-| 10 | 2024-06-07 | TBD | Catalina |
-| Finals | 2024-06-14 | Party? | - |
+| **10** | **2024-06-04 (1pm)** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
+| 10 | 2024-06-07 (1pm) | TBD | Party |
+| Finals | 2024-06-14 | TBD | TBD |
+| Summer 1 | 2024-06-21 | TBD | TBD |
+| Summer 2 | 2024-06-28 | TBD | TBD |
 
 
 Put yourself on the calendar like this:
