@@ -18,7 +18,7 @@
 | 6 | 2024-05-10 | Isaac's practice defense | Isaac |
 | **6** | **2024-05-13 (1 pm)** | **Isaac's defense (DBH 2011)** | **Isaac** |
 | 7 | 2024-05-17 | **No Meeting** | - |
-| 8 | 2024-05-24 | TBD | Catalina |
+| 8 | 2024-05-24 | [Bayesian back-calculation and nowcasting for line list data during the COVID-19 pandemic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009210) | Catalina |
 | 9 | 2024-05-31 | Thanasi's practice advancement | Thanasi |
 | **10** | **2024-06-04 (1pm)** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
 | 10 | 2024-06-07 (1pm) | TBD | Party |
