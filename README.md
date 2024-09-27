@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Spring 2024
+## Fall 2024
 
 *Time*: Fridays, 11-12pm
 
@@ -10,26 +10,23 @@
 
 | Week | Date     | Presentation | Presenter |
 |:----|:---------|:-------------|:----------|
-| 1 | 2024-04-05 | *No Meeting* | - |
-| 2 | 2024-04-12 | [Unifying incidence and prevalence under a time-varying general branching process](https://link.springer.com/article/10.1007/s00285-023-01958-w#Sec2) | Isaac |
-| 3 | 2024-04-19 | *No Meeting* | - |
-| 4 | 2024-04-26 | [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/published/philosophy) | Jessalyn |
-| 5 | 2024-05-03 | *No Meeting* | - |
-| 6 | 2024-05-10 | Isaac's practice defense | Isaac |
-| **6** | **2024-05-13 (1 pm)** | **Isaac's defense (DBH 2011)** | **Isaac** |
-| 7 | 2024-05-17 | **No Meeting** | - |
-| 8 | 2024-05-24 | [Bayesian back-calculation and nowcasting for line list data during the COVID-19 pandemic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009210) | Catalina |
-| 9 | 2024-05-31 | Thanasi's practice advancement | Thanasi |
-| **10** | **2024-06-04 (1pm)** | **Thanasi's advancement (DBH 2011)** | **Thanasi** |
-| 10 | 2024-06-07 (1pm) | TBD | Party |
-| Finals | 2024-06-14 | TBD | TBD |
-| Summer 1 | 2024-06-21 | TBD | TBD |
-| Summer 2 | 2024-06-28 | TBD | TBD |
+| 0 | 2024-09-27 | Short- and Medium-Term Goals | Everyone |
+| 1 | 2024-10-04 | *No Meeting* | - |
+| 2 | 2024-10-11 | TBD | Jessalyn |
+| 3 | 2024-10-18 | TBD | Catalina |
+| 4 | 2024-10-25 | TBD | Thanasi |
+| 5 | 2024-11-01 | *No Meeting* | - |
+| 6 | 2024-11-08 | *No Meeting* | - |
+| 7 | 2024-11-15 | TBD | Christian |
+| 8 | 2024-11-22 | TBD | Jessalyn |
+| 9 | 2024-11-29 | *No Meeting (Thanksgiving)* | - |
+| 10 | 2024-12-06 | TBD | Catalina |
+| Finals | 2024-12-13 | TBD | Thanasi |
 
 
 Put yourself on the calendar like this:
 
-    | 2022-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Volodymyr |
+    | 2025-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Volodymyr |
 
 # How to Host Journal Club
 
