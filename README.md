@@ -12,15 +12,15 @@
 |:----|:---------|:-------------|:----------|
 | 0 | 2024-09-27 | Short- and Medium-Term Goals | Everyone |
 | 1 | 2024-10-04 | *No Meeting* | - |
-| 2 | 2024-10-11 | TBD | Jessalyn |
+| 2 | 2024-10-11 | [rtestim: Time-varying reproduction number estimation with trend filtering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012324) | Jessalyn |
 | 3 | 2024-10-18 | *No Meeting* | - |
 | 4 | 2024-10-25 | TBD | Thanasi |
 | 5 | 2024-11-01 | *No Meeting* | - |
 | 6 | 2024-11-08 | *No Meeting* | - |
 | 7 | 2024-11-15 | TBD | Christian |
-| 8 | 2024-11-22 | TBD | Jessalyn |
+| 8 | 2024-11-22 | TBD | Catalina |
 | 9 | 2024-11-29 | *No Meeting (Thanksgiving)* | - |
-| 10 | 2024-12-06 | TBD | Catalina |
+| 10 | 2024-12-06 | TBD | Jessalyn |
 | Finals | 2024-12-13 | TBD | Thanasi |
 
 
