@@ -13,7 +13,7 @@
 | 0 | 2024-09-27 | Short- and Medium-Term Goals | Everyone |
 | 1 | 2024-10-04 | *No Meeting* | - |
 | 2 | 2024-10-11 | TBD | Jessalyn |
-| 3 | 2024-10-18 | TBD | Catalina |
+| 3 | 2024-10-18 | *No Meeting* | - |
 | 4 | 2024-10-25 | TBD | Thanasi |
 | 5 | 2024-11-01 | *No Meeting* | - |
 | 6 | 2024-11-08 | *No Meeting* | - |
