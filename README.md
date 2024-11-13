@@ -14,10 +14,10 @@
 | 1 | 2024-10-04 | *No Meeting* | - |
 | 2 | 2024-10-11 | [rtestim: Time-varying reproduction number estimation with trend filtering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012324) | Jessalyn |
 | 3 | 2024-10-18 | *No Meeting* | - |
-| 4 | 2024-10-25 | TBD | Thanasi |
+| 4 | 2024-10-25 | [Evaluation of an open forecasting challenge to assess skill of West Nile virus neuroinvasive disease prediction](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-022-05630-y#MOESM1) | Thanasi |
 | 5 | 2024-11-01 | *No Meeting* | - |
 | 6 | 2024-11-08 | *No Meeting* | - |
-| 7 | 2024-11-15 | TBD | Christian |
+| 7 | 2024-11-15 | [Real-time mechanistic Bayesian forecasts of COVID-19 mortality](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Real-time-mechanistic-Bayesian-forecasts-of-COVID-19-mortality/10.1214/22-AOAS1671.full) | Christian |
 | 8 | 2024-11-22 | TBD | Catalina |
 | 9 | 2024-11-29 | *No Meeting (Thanksgiving)* | - |
 | 10 | 2024-12-06 | TBD | Jessalyn |
