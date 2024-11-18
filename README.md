@@ -18,7 +18,7 @@
 | 5 | 2024-11-01 | *No Meeting* | - |
 | 6 | 2024-11-08 | *No Meeting* | - |
 | 7 | 2024-11-15 | [Real-time mechanistic Bayesian forecasts of COVID-19 mortality](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Real-time-mechanistic-Bayesian-forecasts-of-COVID-19-mortality/10.1214/22-AOAS1671.full) | Christian |
-| 8 | 2024-11-22 | TBD | Jessalyn |
+| 8 | 2024-11-22 | *No Meeting* | - |
 | 9 | 2024-11-29 | *No Meeting (Thanksgiving)* | - |
 | 10 | 2024-12-06 | TBD | Catalina |
 | Finals | 2024-12-13 | TBD | Thanasi |
