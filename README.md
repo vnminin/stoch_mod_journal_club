@@ -10,17 +10,17 @@
 
 | Week | Date     | Presentation | Presenter |
 |:----|:---------|:-------------|:----------|
-| 1 | 2025-01-10 | Attended [Real-Time Genomic Surveillance of Pathogens through Bioinformatics Applications](https://ics.uci.edu/event/real-time-genomic-surveillance-of-pathogens-through-bioinformatics-applications/) Talk | - |
+| 1 | 2025-01-10 | Attended [Real-Time Genomic Surveillance of Pathogens through Bioinformatics Applications](https://ics.uci.edu/event/real-time-genomic-surveillance-of-pathogens-through-bioinformatics-applications/) Talk | |
 | 2 | 2025-01-17 | Catalina's practice job (research) talk | Catalina |
-| 3 | 2025-01-24 | TBD | TBD |
-| 4 | 2025-01-31 | TBD | TBD |
-| 5 | 2025-02-7 | TBD | TBD |
-| 6 | 2025-02-14 | TBD | TBD |
-| 7 | 2025-02-21 | TBD | TBD |
-| 8 | 2025-02-28 | TBD | TBD |
-| 9 | 2025-03-7 | TBD | TBD |
-| 10 | 2025-03-14 | TBD | TBD |
-| Finals | 2025-03-21 | TBD | TBD |
+| 3 | 2025-01-24 | *No meeting* | |
+| 4 | 2025-01-31 | TBD |  |
+| 5 | 2025-02-07 | TBD | Jessalyn |
+| 6 | 2025-02-14 | TBD | Thanasi |
+| 7 | 2025-02-21 | TBD | Christian |
+| 8 | 2025-02-28 | Advancement to Candidacy practice run | Jessalyn |
+| 9 | 2025-03-07 | TBD | Thanasi |
+| 10 | 2025-03-14 | TBD | Christian |
+| Finals | 2025-03-21 | TBD | Catalina |
 
 
 Put yourself on the calendar like this:
