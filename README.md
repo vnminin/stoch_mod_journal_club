@@ -13,7 +13,7 @@
 | 1 | 2025-01-10 | Attended [Real-Time Genomic Surveillance of Pathogens through Bioinformatics Applications](https://ics.uci.edu/event/real-time-genomic-surveillance-of-pathogens-through-bioinformatics-applications/) Talk | |
 | 2 | 2025-01-17 | Catalina's practice job (research) talk | Catalina |
 | 3 | 2025-01-24 | *No meeting* | |
-| 4 | 2025-01-31 | TBD |  |
+| 4 | 2025-01-31 | *No meeting* |  |
 | 5 | 2025-02-07 | TBD | Jessalyn |
 | 6 | 2025-02-14 | TBD | Thanasi |
 | 7 | 2025-02-21 | TBD | Christian |
