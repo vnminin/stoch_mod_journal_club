@@ -14,7 +14,7 @@
 | 2 | 2025-01-17 | Catalina's practice job (research) talk | Catalina |
 | 3 | 2025-01-24 | *No meeting* | |
 | 4 | 2025-01-31 | *No meeting* |  |
-| 5 | 2025-02-07 | TBD | Jessalyn |
+| 5 | 2025-02-07 | [Why are different estimates of the effective reproductive number so different? A case study on COVID-19 in Germany](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011653) | Jessalyn |
 | 6 | 2025-02-14 | TBD | Thanasi |
 | 7 | 2025-02-21 | TBD | Christian |
 | 8 | 2025-02-28 | Advancement to Candidacy practice run | Jessalyn |
