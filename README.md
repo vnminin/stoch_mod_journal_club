@@ -15,7 +15,7 @@
 | 3 | 2025-01-24 | *No meeting* | |
 | 4 | 2025-01-31 | *No meeting* |  |
 | 5 | 2025-02-07 | [Why are different estimates of the effective reproductive number so different? A case study on COVID-19 in Germany](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011653) | Jessalyn |
-| 6 | 2025-02-14 | TBD | Thanasi |
+| 6 | 2025-02-14 | [Power-law models for infectious disease spread](https://doi.org/10.1214/14-AOAS743) | Thanasi |
 | 7 | 2025-02-21 | TBD | Christian |
 | 8 | 2025-02-28 | Advancement to Candidacy practice run | Jessalyn |
 | 9 | 2025-03-07 | TBD | Thanasi |
