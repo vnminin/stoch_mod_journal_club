@@ -19,7 +19,7 @@
 | 7 | 2025-02-21 | [Fast likelihood calculations for emerging epidemics](https://link.springer.com/article/10.1007/s11203-024-09323-4) | Christian |
 | 8 | 2025-02-28 | Advancement to Candidacy practice run | Jessalyn |
 | 9 | 2025-03-07 | *Jessalyn's advancement to candidacy* | |
-| 10 | 2025-03-14 | TBD | Thanasi |
+| 10 | 2025-03-14 | *No meeting* | |
 | Finals | 2025-03-21 | TBD | Catalina |
 
 
