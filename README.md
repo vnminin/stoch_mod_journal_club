@@ -20,7 +20,7 @@
 | 8 | 2025-02-28 | Advancement to Candidacy practice run | Jessalyn |
 | 9 | 2025-03-07 | *Jessalyn's advancement to candidacy* | |
 | 10 | 2025-03-14 | *No meeting* | |
-| Finals | 2025-03-21 | TBD | Catalina |
+| Finals | 2025-03-21 | *No meeting* | |
 
 
 Put yourself on the calendar like this:
