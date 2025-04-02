@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Spring 2025
+## Winter 2025
 
 *Time*: Fridays, **12-1**pm
 
@@ -10,17 +10,17 @@
 
 | Week | Date     | Presentation | Presenter |
 |:----|:---------|:-------------|:----------|
-| 1 | 2025-04-04 | *No Meeting* | - |
-| 2 | 2025-04-11 | - | Catalina |
-| 3 | 2025-04-18 | - | Christian |
-| 4 | 2025-04-25 | - | Jessalyn |
-| 5 | 2025-05-02 | - | Thanasi |
-| 6 | 2025-05-09 | - | Catalina |
-| 7 | 2025-05-16 | - | Christian |
-| 8 | 2025-05-23 | - | Jessalyn |
-| 9 | 2025-05-30 | - | Thanasi |
-| 10 | 2025-06-06 | *Catalina's Practice Defense* | Catalina |
-| Finals | 2025-06-13 | - | Christian |
+| 1 | 2025-01-10 | Attended [Real-Time Genomic Surveillance of Pathogens through Bioinformatics Applications](https://ics.uci.edu/event/real-time-genomic-surveillance-of-pathogens-through-bioinformatics-applications/) Talk | |
+| 2 | 2025-01-17 | Catalina's practice job (research) talk | Catalina |
+| 3 | 2025-01-24 | *No meeting* | |
+| 4 | 2025-01-31 | *No meeting* |  |
+| 5 | 2025-02-07 | [Why are different estimates of the effective reproductive number so different? A case study on COVID-19 in Germany](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011653) | Jessalyn |
+| 6 | 2025-02-14 | [Power-law models for infectious disease spread](https://doi.org/10.1214/14-AOAS743) | Thanasi |
+| 7 | 2025-02-21 | [Fast likelihood calculations for emerging epidemics](https://link.springer.com/article/10.1007/s11203-024-09323-4) | Christian |
+| 8 | 2025-02-28 | Advancement to Candidacy practice run | Jessalyn |
+| 9 | 2025-03-07 | *Jessalyn's advancement to candidacy* | |
+| 10 | 2025-03-14 | *No meeting* | |
+| Finals | 2025-03-21 | *No meeting* | |
 
 
 Put yourself on the calendar like this:
