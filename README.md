@@ -11,16 +11,16 @@
 | Week | Date     | Presentation | Presenter |
 |:----|:---------|:-------------|:----------|
 | 1 | 2025-04-04 | *No Meeting* | - |
-| 2 | 2025-04-11 | - | Catalina |
-| 3 | 2025-04-18 | - | Christian |
+| 2 | 2025-04-11 | [Addressing delayed case reporting in infectious disease forecast modeling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010115) | Catalina |
+| 3 | 2025-04-18 | - | Thanasi |
 | 4 | 2025-04-25 | - | Jessalyn |
-| 5 | 2025-05-02 | - | Thanasi |
+| 5 | 2025-05-02 | - | Christian |
 | 6 | 2025-05-09 | - | Catalina |
-| 7 | 2025-05-16 | - | Christian |
+| 7 | 2025-05-16 | - | Thanasi |
 | 8 | 2025-05-23 | - | Jessalyn |
-| 9 | 2025-05-30 | - | Thanasi |
+| 9 | 2025-05-30 | - | Christian |
 | 10 | 2025-06-06 | *Catalina's Practice Defense* | Catalina |
-| Finals | 2025-06-13 | - | Christian |
+| Finals | 2025-06-13 | - | Thanasi |
 
 
 Put yourself on the calendar like this:
