@@ -14,13 +14,13 @@
 | 2 | 2025-04-11 | [Addressing delayed case reporting in infectious disease forecast modeling](https://doi.org/10.1371/journal.pcbi.1010115) | Catalina |
 | 3 | 2025-04-18 | [A Gaussian-process approximation to a spatial SIR process using moment closures and emulators](https://pmc.ncbi.nlm.nih.gov/articles/PMC11261348/) | Christian |
 | 4 | 2025-04-25 | [Are epidemic growth rates more informative than reproduction numbers?](https://pubmed.ncbi.nlm.nih.gov/35942192/) | Jessalyn |
-| 5 | 2025-05-02 | - | Christian |
+| 5 | 2025-05-02 | [Predictive variational inference](https://doi.org/10.48550/arXiv.2410.14843) | Thanasi |
 | 6 | 2025-05-09 | - | Catalina |
-| 7 | 2025-05-16 | - | Thanasi |
+| 7 | 2025-05-16 | - | Christian |
 | 8 | 2025-05-23 | - | Jessalyn |
-| 9 | 2025-05-30 | - | Christian |
+| 9 | 2025-05-30 | - | Thanasi |
 | 10 | 2025-06-06 | *Catalina's Practice Defense* | Catalina |
-| Finals | 2025-06-13 | - | Thanasi |
+| Finals | 2025-06-13 | - | Christian |
 
 
 Put yourself on the calendar like this:
