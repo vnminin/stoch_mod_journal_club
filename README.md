@@ -17,7 +17,7 @@
 | 5 | 2025-05-02 | [Predictive variational inference](https://doi.org/10.48550/arXiv.2410.14843) | Thanasi |
 | 6 | 2025-05-09 | Research update by Christian | Christian |
 | 7 | 2025-05-16 | BEAST and TransPhylo for using genetic data to identify transmission risk factors | Jessalyn |
-| 8 | 2025-05-23 | - | TBD |
+| 8 | 2025-05-23 | Open problems | Volodymyr |
 | 9 | 2025-05-30 | - | Thanasi |
 | 10 | 2025-06-06 | *Catalina's Practice Defense* | Catalina |
 | Finals | 2025-06-13 | - | Christian |
