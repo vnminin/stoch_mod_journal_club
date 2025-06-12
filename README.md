@@ -20,7 +20,7 @@
 | 8 | 2025-05-23 | *No Meeting* | - |
 | 9 | 2025-05-30 | [The posterior predictive null](https://projecteuclid.org/journals/bayesian-analysis/volume-18/issue-4/The-Posterior-Predictive-Null/10.1214/22-BA1313.full) | Thanasi |
 | 10 | 2025-06-06 | *Catalina's Practice Defense* | Catalina |
-| Finals | 2025-06-13 | - | Christian |
+| Finals | 2025-06-13 | WNAR Presentation Practice | Christian & Jessalyn |
 
 
 Put yourself on the calendar like this:
