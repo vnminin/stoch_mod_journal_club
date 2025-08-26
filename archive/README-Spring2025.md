@@ -1,20 +1,27 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Summer 2025
+## Spring 2025
 
-*Time*: Fridays, 12-1 pm
+*Time*: Fridays, **12-1**pm
 
 *Location*: DBH 2222
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Date   | Presentation   | Presenter    |
-|--------|----------------|--------------|
-| 8/29 | Research updates | Thanasi |
-| 9/5 | *No meeting* | |
-| 9/12 | Research updates | Jessalyn |
-| 9/19 | Research updates | Christian |
-| 9/26 | Research updates | Isabel |
+| Week | Date     | Presentation | Presenter |
+|:----|:---------|:-------------|:----------|
+| 1 | 2025-04-04 | *No Meeting* | - |
+| 2 | 2025-04-11 | [Addressing delayed case reporting in infectious disease forecast modeling](https://doi.org/10.1371/journal.pcbi.1010115) | Catalina |
+| 3 | 2025-04-18 | [A Gaussian-process approximation to a spatial SIR process using moment closures and emulators](https://pmc.ncbi.nlm.nih.gov/articles/PMC11261348/) | Christian |
+| 4 | 2025-04-25 | [Are epidemic growth rates more informative than reproduction numbers?](https://pubmed.ncbi.nlm.nih.gov/35942192/) | Jessalyn |
+| 5 | 2025-05-02 | [Predictive variational inference](https://doi.org/10.48550/arXiv.2410.14843) | Thanasi |
+| 6 | 2025-05-09 | Research update by Christian | Christian |
+| 7 | 2025-05-16 | BEAST and TransPhylo for using genetic data to identify transmission risk factors | Jessalyn |
+| 8 | 2025-05-23 | *No Meeting* | - |
+| 9 | 2025-05-30 | [The posterior predictive null](https://projecteuclid.org/journals/bayesian-analysis/volume-18/issue-4/The-Posterior-Predictive-Null/10.1214/22-BA1313.full) | Thanasi |
+| 10 | 2025-06-06 | *Catalina's Practice Defense* | Catalina |
+| Finals | 2025-06-13 | WNAR Presentation Practice | Christian & Jessalyn |
+
 
 Put yourself on the calendar like this:
 
