@@ -2,7 +2,7 @@
 
 ## Summer 2025
 
-*Time*: Fridays, 12-1 pm
+*Time*: Fridays, 11a - 12p
 
 *Location*: DBH 2222
 
@@ -10,13 +10,15 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| 7/25 | [From individual-based epidemic models to McKendrick-von Foerster PDEs: a guide to modeling and inferring COVID-19 dynamics](https://link.springer.com/article/10.1007/s00285-022-01794-4) | Volodymyr |
-| 7/31 | JSM practice talk | Jessalyn | 
-| 8/29 | Research updates | Thanasi |
-| 9/5 | *No meeting* | |
-| 9/12 | Research updates | Jessalyn |
-| 9/19 | Research updates | Christian |
-| 9/26 | Research updates | Isabel |
+| 2025-10-10 | [TBD] | Jessalyn |
+| 2025-10-17 | [TBD] | Christian |
+| 2025-10-24 | [TBD] | Thanasi |
+| 2025-10-31 | [TBD] | TBD |
+| 2025-11-07 | *Meeting with collaborators?* | TBD |
+| 2025-11-14 | Practice Advancement | Christian |
+| 2025-11-21 | *Meeting with collaborators?* | TBD |
+| 2025-11-28 | *Thanksgiving holiday* | N/A |
+| 2025-12-05 | [TBD] | TBD |
 
 Put yourself on the calendar like this:
 
