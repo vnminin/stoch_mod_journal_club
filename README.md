@@ -10,10 +10,10 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| 2025-10-10 | [TBD] | Jessalyn |
-| 2025-10-17 | [TBD] | Christian |
-| 2025-10-24 | [TBD] | Thanasi |
-| 2025-10-31 | [TBD] | TBD |
+| 2025-10-10 | [Regularised B-splines Projected Gaussian Process Priors to Estimate Time-trends in Age-specific COVID-19 Deaths](https://projecteuclid.org/journals/bayesian-analysis/volume-18/issue-3/Regularised-B-splines-Projected-Gaussian-Process-Priors-to-Estimate-Time/10.1214/22-BA1334.full) | Jessalyn |
+| 2025-10-17 | [Seeing Through Epidemiologic Fallacies: How Statistics Safeguards Scientific Communication in a Polarized Era](https://aaas.zoom.us/webinar/register/WN_X2K9CTjSR3qAxqdxq_FRHQ#/registration) | Webinar |
+| 2025-10-24 | [TBD] | Christian |
+| 2025-10-31 | [TBD] | Thanasi |
 | 2025-11-07 | *Meeting with collaborators?* | TBD |
 | 2025-11-14 | Practice Advancement | Christian |
 | 2025-11-21 | *Meeting with collaborators?* | TBD |
