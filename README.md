@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Summer 2025
+## Fall 2025
 
 *Time*: Fridays, 11a - 12p
 
