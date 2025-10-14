@@ -16,4 +16,5 @@
 | 9/5 | *No meeting* | |
 | 9/12 | Research updates | Jessalyn |
 | 9/19 | Research updates | Christian |
+| 9/20 | Research retreat (with guests from UCLA!) | special time: 2-5 pm |
 | 9/26 | Research updates | Isabel |
