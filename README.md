@@ -13,7 +13,7 @@
 | 2025-10-10 | [Regularised B-splines Projected Gaussian Process Priors to Estimate Time-trends in Age-specific COVID-19 Deaths](https://projecteuclid.org/journals/bayesian-analysis/volume-18/issue-3/Regularised-B-splines-Projected-Gaussian-Process-Priors-to-Estimate-Time/10.1214/22-BA1334.full) | Jessalyn |
 | 2025-10-17 | [Seeing Through Epidemiologic Fallacies: How Statistics Safeguards Scientific Communication in a Polarized Era](https://aaas.zoom.us/webinar/register/WN_X2K9CTjSR3qAxqdxq_FRHQ#/registration) | Webinar |
 | 2025-10-24 | [Improving Outbreak Forecasts Through Model Augmentation](https://arxiv.org/abs/2506.16410) | Christian |
-| 2025-10-31 | [TBD] | Thanasi |
+| 2025-10-31 | [Focused Bayesian Prediction](https://onlinelibrary.wiley.com/doi/10.1002/jae.2810) | Thanasi |
 | 2025-11-07 | Mini Research Updates | Everyone |
 | 2025-11-14 | Practice Advancement | Christian |
 | 2025-11-21 | Visiting Daniel Parker's Lab Meeting @ Social Ecology II, Room 1391  | Maia Tarnas |
