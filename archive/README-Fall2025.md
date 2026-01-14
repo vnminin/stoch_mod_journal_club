@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Winter 2026
+## Fall 2025
 
 *Time*: Fridays, 11a - 12p
 
@@ -10,15 +10,15 @@
 
 | Date   | Presentation   | Presenter    |
 |--------|----------------|--------------|
-| 2026-01-16 | *Minin group alum talk: Phylogenetics work in progress* | [Peter Chi](https://datascience.ucsd.edu/people/peter-chi/) |
-| 2026-01-23 | [TBD] | Christian |
-| 2026-01-30 | [TBD] | Thanasi |
-| 2026-02-06 | [TBD] | Jessalyn |
-| 2026-02-13 | [TBD] | Isabel |
-| 2026-02-20 | [TBD] | Christian |
-| 2026-02-27 | [TBD] | Thanasi |
-| 2026-03-06 | [TBD] | Jessalyn |
-| 2026-03-13 | [TBD] | Isabel |
+| 2025-10-10 | [Regularised B-splines Projected Gaussian Process Priors to Estimate Time-trends in Age-specific COVID-19 Deaths](https://projecteuclid.org/journals/bayesian-analysis/volume-18/issue-3/Regularised-B-splines-Projected-Gaussian-Process-Priors-to-Estimate-Time/10.1214/22-BA1334.full) | Jessalyn |
+| 2025-10-17 | [Seeing Through Epidemiologic Fallacies: How Statistics Safeguards Scientific Communication in a Polarized Era](https://aaas.zoom.us/webinar/register/WN_X2K9CTjSR3qAxqdxq_FRHQ#/registration) | Webinar |
+| 2025-10-24 | [Improving Outbreak Forecasts Through Model Augmentation](https://arxiv.org/abs/2506.16410) | Christian |
+| 2025-10-31 | [Focused Bayesian Prediction](https://onlinelibrary.wiley.com/doi/10.1002/jae.2810) | Thanasi |
+| 2025-11-07 | Mini Research Updates | Everyone |
+| 2025-11-14 | Practice Advancement | Christian |
+| 2025-11-21 | Visiting Daniel Parker's Lab Meeting @ Social Ecology II, Room 1391  | Maia Tarnas |
+| 2025-11-28 | *Thanksgiving holiday* | N/A |
+| 2025-12-05 | [TBD] | TBD |
 
 Put yourself on the calendar like this:
 
