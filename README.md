@@ -16,7 +16,7 @@
 | 2026-02-06 | [TBD] | Jessalyn |
 | 2026-02-13 | [TBD] | Isabel |
 | 2026-02-20 | [TBD] | Christian |
-| 2026-02-27 | [TBD] | Thanasi |
+| 2026-02-27 |  Guest Talk: [Inhomogeneous branching trees with symmetric and asymmetric offspring and their genealogies](https://arxiv.org/pdf/2510.07921) | Frederik Mølkjær Andersen; *From Marc Suchard's Lab* |
 | 2026-03-06 | [TBD] | Jessalyn |
 | 2026-03-13 | [TBD] | Isabel |
 
