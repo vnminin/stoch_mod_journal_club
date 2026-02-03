@@ -13,7 +13,7 @@
 | 2026-01-16 | *Minin group alum talk: Phylogenetics work in progress* | [Peter Chi](https://datascience.ucsd.edu/people/peter-chi/) |
 | 2026-01-23 | [Forecasting the spatial spread of an Ebola epidemic in real time: Comparing predictions of mathematical models and experts](https://elifesciences.org/articles/98005) | Christian |
 | 2026-01-30 | [A gentle introduction to conformal time series forecasting](https://arxiv.org/abs/2511.13608) | Thanasi |
-| 2026-02-06 | [TBD] | Jessalyn |
+| 2026-02-06 | [Bayesian Adaptive Smoothing Splines Using Stochastic Differential Equations](https://projecteuclid.org/journals/bayesian-analysis/volume-9/issue-2/Bayesian-Adaptive-Smoothing-Splines-Using-Stochastic-Differential-Equations/10.1214/13-BA866.full) | Jessalyn |
 | 2026-02-13 | [TBD] | Isabel |
 | 2026-02-20 | [TBD] | Christian |
 | 2026-02-27 |  Guest Talk: [Inhomogeneous branching trees with symmetric and asymmetric offspring and their genealogies](https://arxiv.org/pdf/2510.07921) | Frederik Mølkjær Andersen; *From Marc Suchard's Lab* |
