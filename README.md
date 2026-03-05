@@ -17,8 +17,8 @@
 | 2026-02-13 | *Canceled* | Isabel |
 | 2026-02-20 | [Joint Modeling of Two Stochastic Processes, with Application to Learning Hospitalization Dynamics from Wastewater Viral Concentrations](https://arxiv.org/abs/2601.07977) | Christian |
 | 2026-02-27 |  Guest Talk: [Time- and Age-Dependent Birth-Death processes in Phylogenetics](https://arxiv.org/pdf/2510.07921) | Frederik Mølkjær Andersen; *From Samir Bhatt's Lab* |
-| 2026-03-06 | [Model-Based Smoothing with Integrated Wiener Processes and Overlapping Splines](https://doi.org/10.1080/10618600.2023.2289532) | Jessalyn |
-| 2026-03-13 | [TBD] | Isabel |
+| 2026-03-06 | Analysis of Longitudinal Student Data using Discrete-time State Models | [Robert Rovetti](https://rovero.org/) |
+| 2026-03-13 | *Canceled* | - |
 
 Put yourself on the calendar like this:
 
