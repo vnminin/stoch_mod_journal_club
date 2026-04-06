@@ -22,7 +22,7 @@
 
 Put yourself on the calendar like this:
 
-    | 2025-02-31   | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) | Volodymyr |
+    | 2025-02-31   | Volodymyr | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) |
 
 # How to Host Journal Club
 
