@@ -1,24 +1,24 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Spring 2026
+## Winter 2026
 
-*Time*: Fridays, 12p - 1p
+*Time*: Fridays, 11a - 12p
 
 *Location*: DBH 2222
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
-| Date       | Presenter | Presentation |
-|------------|-----------|--------------|
-| 2026-04-10 | Thanasi | TBD |
-| 2026-04-17 | Jessalyn | TBD |
-| 2026-04-24 | Isabel | TBD |
-| 2026-05-01 | Christian | TBD |
-| 2026-05-08 | Jade | TBD |
-| 2026-05-15 | Thanasi | TBD |
-| 2026-05-22 | Jessalyn | TBD |
-| 2026-05-29 | Christian | TBD |
-| 2026-06-05 | _TBD_ | TBD |
+| Date   | Presentation   | Presenter    |
+|--------|----------------|--------------|
+| 2026-01-16 | *Minin group alum talk: Phylogenetics work in progress* | [Peter Chi](https://datascience.ucsd.edu/people/peter-chi/) |
+| 2026-01-23 | [Forecasting the spatial spread of an Ebola epidemic in real time: Comparing predictions of mathematical models and experts](https://elifesciences.org/articles/98005) | Christian |
+| 2026-01-30 | [A gentle introduction to conformal time series forecasting](https://arxiv.org/abs/2511.13608) | Thanasi |
+| 2026-02-06 | [Bayesian Adaptive Smoothing Splines Using Stochastic Differential Equations](https://projecteuclid.org/journals/bayesian-analysis/volume-9/issue-2/Bayesian-Adaptive-Smoothing-Splines-Using-Stochastic-Differential-Equations/10.1214/13-BA866.full) | Jessalyn |
+| 2026-02-13 | *Canceled* | Isabel |
+| 2026-02-20 | [Joint Modeling of Two Stochastic Processes, with Application to Learning Hospitalization Dynamics from Wastewater Viral Concentrations](https://arxiv.org/abs/2601.07977) | Christian |
+| 2026-02-27 |  Guest Talk: [Time- and Age-Dependent Birth-Death processes in Phylogenetics](https://arxiv.org/pdf/2510.07921) | Frederik Mølkjær Andersen; *From Samir Bhatt's Lab* |
+| 2026-03-06 | Analysis of Longitudinal Student Data using Discrete-time State Models | [Robert Rovetti](https://rovero.org/) |
+| 2026-03-13 | *Canceled* | - |
 
 Put yourself on the calendar like this:
 
