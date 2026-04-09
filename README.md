@@ -10,7 +10,7 @@
 
 | Date       | Presenter | Presentation |
 |------------|-----------|--------------|
-| 2026-04-10 | Thanasi | TBD |
+| 2026-04-10 | - | Research updates |
 | 2026-04-17 | Jessalyn | TBD |
 | 2026-04-24 | Isabel | TBD |
 | 2026-05-01 | Christian | TBD |
@@ -18,7 +18,7 @@
 | 2026-05-15 | Thanasi | TBD |
 | 2026-05-22 | Jessalyn | TBD |
 | 2026-05-29 | Christian | TBD |
-| 2026-06-05 | _TBD_ | TBD |
+| 2026-06-05 | Thanasi | TBD |
 
 Put yourself on the calendar like this:
 
