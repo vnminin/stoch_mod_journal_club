@@ -12,7 +12,7 @@
 |------------|-----------|--------------|
 | 2026-04-10 | - | Research updates |
 | 2026-04-17 | Jessalyn | INLA Overview; mix of sources, e.g.: [1](https://www.statslab.cam.ac.uk/~rjs57/RSS/0708/Rue08.pdf), [2](https://arxiv.org/abs/1604.00860), [3](https://becarioprecario.bitbucket.io/inla-gitbook/index.html)|
-| 2026-04-24 | Isabel | TBD |
+| 2026-04-24 | Isabel | Practice run for UROP Symposium |
 | 2026-05-01 | Christian | TBD |
 | 2026-05-08 | Jade | TBD |
 | 2026-05-15 | Thanasi | TBD |
