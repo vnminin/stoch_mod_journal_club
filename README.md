@@ -4,7 +4,7 @@
 
 *Time*: Fridays, 12p - 1p
 
-*Location*: DBH 2222
+*Location*: DBH ~2222~ 4011
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
