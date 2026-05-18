@@ -13,12 +13,13 @@
 | 2026-04-10 | - | Research updates |
 | 2026-04-17 | Jessalyn | INLA Overview; mix of sources, e.g.: [1](https://www.statslab.cam.ac.uk/~rjs57/RSS/0708/Rue08.pdf), [2](https://arxiv.org/abs/1604.00860), [3](https://becarioprecario.bitbucket.io/inla-gitbook/index.html)|
 | 2026-04-24 | Isabel | Practice run for UROP Symposium |
-| 2026-05-01 | Christian | TBD |
-| 2026-05-08 | Jade | TBD |
-| 2026-05-15 | Thanasi | TBD |
+| 2026-05-01 | Christian | [A computationally tractable birth-death model that combines phylogenetic and epidemiological data](https://pmc.ncbi.nlm.nih.gov/articles/PMC8903285/) |
+| 2026-05-08 | Jade | [Transmission dynamics of the 2022 mpox epidemic in New York City.](https://pubmed.ncbi.nlm.nih.gov/40133528/) |
+| 2026-05-15 | Thanasi | [Bayesian probabilistic population projections for all countries](https://www.pnas.org/doi/abs/10.1073/pnas.1211452109) |
 | 2026-05-22 | Jessalyn | TBD |
 | 2026-05-29 | Christian | TBD |
 | 2026-06-05 | Thanasi | TBD |
+| 2026-06-05 | - | Infectious Disease Science Potluck |
 
 Put yourself on the calendar like this:
 
