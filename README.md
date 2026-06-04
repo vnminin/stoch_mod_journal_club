@@ -4,7 +4,7 @@
 
 *Time*: Fridays, 12p - 1p
 
-*Location*: DBH ~2222~ 4011
+*Location*: DBH ~2222~ ~4011~ 2011
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
@@ -17,8 +17,8 @@
 | 2026-05-08 | Jade | [Transmission dynamics of the 2022 mpox epidemic in New York City.](https://pubmed.ncbi.nlm.nih.gov/40133528/) |
 | 2026-05-15 | Thanasi | [Bayesian probabilistic population projections for all countries](https://www.pnas.org/doi/abs/10.1073/pnas.1211452109) |
 | 2026-05-22 | Jessalyn | Research update |
-| 2026-05-29 | Christian | TBD |
-| 2026-06-05 | Thanasi | TBD |
+| 2026-05-29 | Christian | Research updates |
+| 2026-06-05 | Thanasi | [Using Stacking to Average Bayesian Predictive Distributions](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Using-Stacking-to-Average-Bayesian-Predictive-Distributions-with-Discussion/10.1214/17-BA1091.full) |
 | 2026-06-05 | - | Infectious Disease Science Potluck |
 
 Put yourself on the calendar like this:
