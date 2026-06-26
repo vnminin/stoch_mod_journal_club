@@ -18,7 +18,7 @@
 | 2026-05-15 | Thanasi | [Bayesian probabilistic population projections for all countries](https://www.pnas.org/doi/abs/10.1073/pnas.1211452109) |
 | 2026-05-22 | Jessalyn | Research update |
 | 2026-05-29 | Christian | Research updates |
-| 2026-06-05 | Thanasi | [Using Stacking to Average Bayesian Predictive Distributions](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Using-Stacking-to-Average-Bayesian-Predictive-Distributions-with-Discussion/10.1214/17-BA1091.full) |
+| 2026-06-05 | Thanasi | canceled: [Using Stacking to Average Bayesian Predictive Distributions](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Using-Stacking-to-Average-Bayesian-Predictive-Distributions-with-Discussion/10.1214/17-BA1091.full) |
 | 2026-06-05 | - | Infectious Disease Science Potluck |
 
 Put yourself on the calendar like this:
