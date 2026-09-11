@@ -2,15 +2,15 @@
 
 ## Spring 2026
 
-*Time*: Fridays, 12p - 1p
+*Time*: Fridays, 1p - 2p
 
-*Location*: DBH ~2222~ ~4011~ 2011
+*Location*: DBH 2222
 
 *Schedule* (Open an issue if you want to suggest a paper to read):
 
 | Date       | Presenter | Presentation |
 |------------|-----------|--------------|
-| 2026-09-11 | John | TBD |
+| 2026-09-11 | John | [Geostatistical inference under preferential sampling](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9876.2009.00701.x) |
 | 2026-09-18 | - | No Meeting |
 | 2026-09-25 | Christian | TBD |
 | 2026-10-02 | Jessalyn | TBD |
