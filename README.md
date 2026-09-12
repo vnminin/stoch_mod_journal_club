@@ -1,6 +1,6 @@
 # UCI stochastic/statistical modeling group meetings
 
-## Spring 2026
+## Fall 2026
 
 *Time*: Fridays, 1p - 2p
 
@@ -22,7 +22,9 @@
 | 2026-11-13 | John | TBD |
 | 2026-11-20 | Thanasi | TBD |
 | 2026-11-27 | - | TBD |
-| 2026-12-04 | Jessalyn | Practice Defence 
+| 2026-12-04 | Jessalyn | Practice Defense |
+
+<!--Be sure to leave a blank line above this line-->
 Put yourself on the calendar like this:
 
     | 2025-02-31   | Volodymyr | [Introduction to statistical inference for infectious diseases](https://github.com/vnminin/stoch_mod_journal_club/issues/1) |
