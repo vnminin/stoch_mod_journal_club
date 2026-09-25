@@ -12,7 +12,7 @@
 |------------|-----------|--------------|
 | 2026-09-11 | John | [Geostatistical inference under preferential sampling](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9876.2009.00701.x) |
 | 2026-09-18 | - | No Meeting |
-| 2026-09-25 | Christian | TBD |
+| 2026-09-25 | Christian | [Real-time estimation of pathogen transmission dynamics from wastewater](https://www.nature.com/articles/s41467-026-75380-3) |
 | 2026-10-02 | Jessalyn | TBD |
 | 2026-10-09 | Jade | TBD |
 | 2026-10-16 | Thanasi | TBD |
