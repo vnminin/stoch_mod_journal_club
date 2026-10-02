@@ -20,9 +20,9 @@
 | 2026-10-30 | Christian | TBD |
 | 2026-11-06 | Isabel and Volodymyr | [Research Updates] |
 | 2026-11-13 | Christian and Thanasi | [Research Updates] |
-| 2026-11-20 | Thanasi | TBD |
+| 2026-11-20 | Jessalyn | Practice Defense |
 | 2026-11-27 | - | No Meeting |
-| 2026-12-04 | Jessalyn | Practice Defense |
+| 2026-12-04 | Thanasi | TBD |
 
 <!--Be sure to leave a blank line above this line-->
 Put yourself on the calendar like this:
