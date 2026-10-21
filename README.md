@@ -14,7 +14,7 @@
 | 2026-09-18 | - | No Meeting |
 | 2026-09-25 | Christian | [Real-time estimation of pathogen transmission dynamics from wastewater](https://www.nature.com/articles/s41467-026-75380-3) |
 | 2026-10-02 | Jessalyn | [Research Update] |
-| 2026-10-09 | Jade | TBD |
+| 2026-10-09 | Jade | [Respondent-Driven Sampling Overview] |
 | 2026-10-16 | - | No Meeting |
 | 2026-10-23 | Jade and John | [Research Updates] |
 | 2026-10-30 | Christian | TBD |
