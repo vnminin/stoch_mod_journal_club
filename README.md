@@ -17,7 +17,7 @@
 | 2026-10-09 | Jade | [Respondent-Driven Sampling Overview] |
 | 2026-10-16 | - | No Meeting |
 | 2026-10-23 | Jade and John | [Research Updates] |
-| 2026-10-30 | Christian | TBD |
+| 2026-10-30 | - | No Meeting |
 | 2026-11-06 | Isabel and Volodymyr | [Research Updates] |
 | 2026-11-13 | Christian and Thanasi | [Research Updates] |
 | 2026-11-20 | Jessalyn | Practice Defense |
