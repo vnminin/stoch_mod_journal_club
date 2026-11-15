@@ -18,9 +18,9 @@
 | 2026-10-16 | - | No Meeting |
 | 2026-10-23 | Jade and John | [Research Updates] |
 | 2026-10-30 | - | No Meeting |
-| 2026-11-06 | Isabel and Volodymyr | [Research Updates] |
+| 2026-11-06 | - | No Meeting |
 | 2026-11-13 | Christian and Thanasi | [Research Updates] |
-| 2026-11-20 | Jessalyn | Practice Defense |
+| 2026-11-24 | Jessalyn | Practice Defense (Tuesday 2-3pm)|
 | 2026-11-27 | - | No Meeting |
 | 2026-12-04 | Thanasi | TBD |
 
